@@ -79,8 +79,8 @@ orgguide.html: $(INFO_SOURCES_ES)
 mostlyclean:
 	rm -f  *.log *.cp *.fn *.ky *.pg *.vr *.tp *.tmp* 
 
-clean: mostlyclean
-	rm -f *.dvi *.html 
+clean: 
+	rm -f *.dvi *.aux *.cps *.kys *.toc *.vrs *.cp *.ky *.log *.vr
 
 distclean: clean
 
