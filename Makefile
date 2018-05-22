@@ -80,7 +80,7 @@ mostlyclean:
 	rm -f  *.log *.cp *.fn *.ky *.pg *.vr *.tp *.tmp* 
 
 clean: 
-	rm -f *.dvi *.aux *.cps *.kys *.toc *.vrs *.cp *.ky *.log *.vr
+	rm -f *.dvi *.aux *.cps *.kys *.toc *.vrs *.cp *.ky *.log *.vr *es.texi *.pdf
 
 distclean: clean
 
