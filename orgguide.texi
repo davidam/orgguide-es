@@ -40,7 +40,7 @@
 @end macro
 @copying
 
-Copyright @copyright{} 2010--2014 Free Software Foundation
+Copyright @copyright{} 2010--2018 Free Software Foundation
 
 @quotation
 Permission is granted to copy, distribute and/or modify this document
@@ -185,7 +185,6 @@ The built-in agenda views
 * Weekly/daily agenda::		The calendar page with current tasks
 * Global TODO list::		All unfinished action items
 * Matching tags and properties::  Structured information with fine-tuned search
-* Timeline::			Time-sorted view for single file
 * Search view::			Find entries by searching for text
 
 Markup for rich export
@@ -251,8 +250,7 @@ page manual because of sheer size.}
 @section Installation
 
 @b{Important:} @i{If you are using a version of Org that is part of the Emacs
-distribution or an XEmacs package, please skip this section and go directly
-to @ref{Activation}.}
+distribution, please skip this section and go directly to @ref{Activation}.}
 
 If you have downloaded Org from the Web, either as a distribution @file{.zip}
 or @file{.tar} file, or as a Git archive, it is best to run it directly from
@@ -345,7 +343,10 @@ of @kbd{C-a} and @kbd{C-e} in headlines.}.  For example:
 * Another top level headline
 @end smallexample
 
-@noindent 
+@noindent Note that a headline named after @code{org-footnote-section},
+which defaults to @samp{Footnotes}, is considered as special.  A subtree with
+this headline will be silently ignored by exporting functions.
+
 Some people find the many stars too noisy and would prefer an
 outline that has whitespace followed by a single star as headline
 starters.  @ref{Clean view}, describes a setup to realize this.
@@ -447,10 +448,9 @@ An important feature of Org mode is the ability to construct @emph{sparse
 trees} for selected information in an outline tree, so that the entire
 document is folded as much as possible, but the selected information is made
 visible along with the headline structure above it@footnote{See also the
-variables @code{org-show-hierarchy-above}, @code{org-show-following-heading},
-@code{org-show-siblings}, and @code{org-show-entry-below} for detailed
-control on how much context is shown around each match.}.  Just try it out
-and you will see immediately how it works.
+variable @code{org-show-context-detail} to decide how much context is shown
+around each match.}.  Just try it out and you will see immediately how it
+works.
 
 Org mode contains several commands creating such trees, all these
 commands can be accessed through a dispatcher:
@@ -501,7 +501,7 @@ blank lines.  An example:
       + I really like Miranda Otto.
    Important actors in this film are:
    - @b{Elijah Wood} :: He plays Frodo
-   - @b{Sean Austin} :: He plays Sam, Frodo's friend.
+   - @b{Sean Astin} :: He plays Sam, Frodo's friend.
 @end group
 @end smallexample
 
@@ -879,8 +879,8 @@ Rotate the TODO state of the current item among
 (unmarked) -> TODO -> DONE -> (unmarked)
 @end smallexample
 
-The same rotation can also be done ``remotely'' from the timeline and
-agenda buffers with the @kbd{t} command key (@pxref{Agenda commands}).
+The same rotation can also be done ``remotely'' from the agenda buffers with
+the @kbd{t} command key (@pxref{Agenda commands}).
 
 @item S-@key{right}@r{/}@key{left}
 Select the following/preceding TODO state, similar to cycling.
@@ -1534,9 +1534,8 @@ Update dynamic block at point.  The cursor needs to be in the
 @code{#+BEGIN} line of the dynamic block.
 @end table
 
-The @kbd{l} key may be used in the timeline (@pxref{Timeline}) and in
-the agenda (@pxref{Weekly/daily agenda}) to show which tasks have been
-worked on or closed during a day.
+The @kbd{l} key may be used in the agenda (@pxref{Weekly/daily agenda}) to
+show which tasks have been worked on or closed during a day.
 
 @seealso{
 @uref{https://orgmode.org/manual/Dates-and-Times.html#Dates-and-Times,
@@ -1762,8 +1761,6 @@ A list of all TODO items (@pxref{Global TODO list}).
 @item m @r{/} M
 A list of headlines matching a TAGS expression (@pxref{Matching
 tags and properties}).
-@item L
-The timeline view for the current buffer (@pxref{Timeline}).
 @item s
 A list of entries selected by a boolean expression of keywords
 and/or regular expressions that must or must not occur in the entry.
@@ -1776,7 +1773,6 @@ and/or regular expressions that must or must not occur in the entry.
 * Weekly/daily agenda::		The calendar page with current tasks
 * Global TODO list::		All unfinished action items
 * Matching tags and properties::  Structured information with fine-tuned search
-* Timeline::			Time-sorted view for single file
 * Search view::			Find entries by searching for text
 @end menu
 
@@ -1825,7 +1821,7 @@ agenda files (@pxref{Agenda Views}) into a single buffer.
 Like the above, but allows selection of a specific TODO keyword. 
 @end table
 
-@node Matching tags and properties, Timeline, Global TODO list, Built-in agenda views
+@node Matching tags and properties, Search view, Global TODO list, Built-in agenda views
 @subsection Matching tags and properties
 
 If headlines in the agenda files are marked with @emph{tags} (@pxref{Tags}),
@@ -1871,21 +1867,7 @@ Like before, but require the @samp{:laptop:} lines to be tagged also
 You may also test for properties at the same
 time as matching tags, see the manual for more information.
 
-@node Timeline, Search view, Matching tags and properties, Built-in agenda views
-@subsection Timeline for a single file
-
-The timeline summarizes all time-stamped items from a single Org mode
-file in a @emph{time-sorted view}.  The main purpose of this command is
-to give an overview over events in a project.
-
-@table @kbd
-@item C-c a L
-Show a time-sorted view of the Org file, with all time-stamped items.
-When called with a @kbd{C-u} prefix, all unfinished TODO entries
-(scheduled or not) are also listed under the current date.
-@end table
-
-@node Search view,  , Timeline, Built-in agenda views
+@node Search view,  , Matching tags and properties, Built-in agenda views
 @subsection Search view
 
 This agenda view is a general text search facility for Org mode entries.
@@ -1930,11 +1912,11 @@ Display the original location of the item in another window.
 With prefix arg, make sure that the entire entry is made visible in the
 outline, not only the heading.
 @c
-@itemx @key{TAB}
+@item @key{TAB}
 Go to the original location of the item in another window.  Under Emacs
 22, @kbd{mouse-1} will also work for this.
 @c
-@itemx @key{RET}
+@item @key{RET}
 Go to the original location of the item and delete other windows.
 @c
 
@@ -2348,8 +2330,6 @@ Insert template with export options, see example below.
 #+AUTHOR:      the author (default taken from @code{user-full-name})
 #+DATE:        a date, fixed, or an Org timestamp
 #+EMAIL:       his/her email address (default from @code{user-mail-address})
-#+DESCRIPTION: the page description, e.g.@: for the XHTML meta tag
-#+KEYWORDS:    the page keywords, e.g.@: for the XHTML meta tag
 #+LANGUAGE:    language, e.g.@: @samp{en} (@code{org-export-default-language})
 #+OPTIONS:     H:2 num:t toc:t \n:nil ::t |:t ^:t f:t tex:t ...
 @end smallexample
@@ -2402,7 +2382,7 @@ the exported file use either
 @noindent 
 or
 @smallexample
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 All lines between these markers are exported literally
 #+END_HTML
 @end smallexample
@@ -2425,8 +2405,8 @@ file.  The class must be listed in @code{org-latex-classes}.
 
 Embedded @LaTeX{} as described in @ref{Embedded @LaTeX{}}, will be correctly
 inserted into the @LaTeX{} file.  Similarly to the HTML exporter, you can use
-@code{#+LATEX:} and @code{#+BEGIN_LATEX ... #+END_LATEX} construct to add
-verbatim @LaTeX{} code.
+@code{#+LATEX:} and @code{#+BEGIN_EXPORT latex ... #+END_EXPORT} construct to
+add verbatim @LaTeX{} code.
 
 @node iCalendar export,  , @LaTeX{} and PDF export, Exporting
 @section iCalendar export
@@ -2555,8 +2535,9 @@ manual for details.
 @subheading Library of Babel
 Use @kbd{C-c C-v l} to load the code blocks from an Org-mode files into the
 ``Library of Babel'', these blocks can then be evaluated from any Org-mode
-buffer.  A collection of generally useful code blocks is distributed with
-Org-mode in @code{contrib/library-of-babel.org}.
+buffer.  A collection of generally useful code blocks is accessible through
+Org-mode's community-driven documentation on
+@uref{https://orgmode.org/worg/library-of-babel.html,Worg}.
 
 @subheading Header Arguments
 Many aspects of the evaluation and export of code blocks are controlled
@@ -2653,8 +2634,7 @@ more text                        |          more text
 @end smallexample
 
 @noindent
-If you are using at least Emacs 23.1.50.3 and version 6.29 of Org, this kind
-of view can be achieved dynamically at display time using
+This kind of view can be achieved dynamically at display time using
 @code{org-indent-mode}, which will prepend intangible space to each line.
 You can turn on @code{org-indent-mode} for all files by customizing the
 variable @code{org-startup-indented}, or you can turn it on for individual
