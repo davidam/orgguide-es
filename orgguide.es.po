@@ -6,8 +6,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2014-10-12 11:16+0200\n"
-"PO-Revision-Date: 2018-05-22 17:33+0200\n"
+"POT-Creation-Date: 2018-06-05 18:48+0200\n"
+"PO-Revision-Date: 2018-06-05 19:16+0200\n"
 "Last-Translator: David Arroyo Menendez <davidam@es.gnu.org>\n"
 "Language-Team: Spanish\n"
 "Language: Spanish\n"
@@ -40,8 +40,8 @@ msgstr "@b{M@'as lecturas}@*@noindent \\text\\"
 
 #. type: copying
 #: orgguide.texi:44
-msgid "Copyright @copyright{} 2010--2014 Free Software Foundation"
-msgstr "Copyright @copyright{} 2010--2014 Free Software Foundation"
+msgid "Copyright @copyright{} 2010--2018 Free Software Foundation"
+msgstr "Copyright @copyright{} 2010--2018 Free Software Foundation"
 
 #. type: quotation
 #: orgguide.texi:54
@@ -110,19 +110,19 @@ msgstr ""
 "ISBN: 978-84-608-8894-9\t"
 
 #. type: node
-#: orgguide.texi:81 orgguide.texi:226 orgguide.texi:300 orgguide.texi:571
+#: orgguide.texi:81 orgguide.texi:225 orgguide.texi:298 orgguide.texi:571
 #: orgguide.texi:696 orgguide.texi:840 orgguide.texi:1095 orgguide.texi:1256
-#: orgguide.texi:1317 orgguide.texi:1548 orgguide.texi:1708 orgguide.texi:2071
-#: orgguide.texi:2316 orgguide.texi:2452 orgguide.texi:2499 orgguide.texi:2615
-#: orgguide.texi:2701
+#: orgguide.texi:1317 orgguide.texi:1547 orgguide.texi:1707 orgguide.texi:2053
+#: orgguide.texi:2298 orgguide.texi:2432 orgguide.texi:2479 orgguide.texi:2596
+#: orgguide.texi:2681
 #, no-wrap
 msgid "Top"
 msgstr "Arriba"
 
 #. type: node
-#: orgguide.texi:81 orgguide.texi:103 orgguide.texi:110 orgguide.texi:226
-#: orgguide.texi:227 orgguide.texi:236 orgguide.texi:250 orgguide.texi:276
-#: orgguide.texi:293 orgguide.texi:300
+#: orgguide.texi:81 orgguide.texi:103 orgguide.texi:110 orgguide.texi:225
+#: orgguide.texi:226 orgguide.texi:235 orgguide.texi:249 orgguide.texi:274
+#: orgguide.texi:291 orgguide.texi:298
 #, no-wrap
 msgid "Introduction"
 msgstr "Introducci@'on"
@@ -145,9 +145,9 @@ msgid "Getting started"
 msgstr "Comenzando"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:117 orgguide.texi:226 orgguide.texi:300
-#: orgguide.texi:301 orgguide.texi:317 orgguide.texi:329 orgguide.texi:353
-#: orgguide.texi:395 orgguide.texi:412 orgguide.texi:443 orgguide.texi:469
+#: orgguide.texi:103 orgguide.texi:117 orgguide.texi:225 orgguide.texi:298
+#: orgguide.texi:299 orgguide.texi:315 orgguide.texi:327 orgguide.texi:354
+#: orgguide.texi:396 orgguide.texi:413 orgguide.texi:444 orgguide.texi:469
 #: orgguide.texi:536 orgguide.texi:571
 #, no-wrap
 msgid "Document Structure"
@@ -159,7 +159,7 @@ msgid "A tree works like your brain"
 msgstr "Un @'arbol funciona como tu cerebro"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:300 orgguide.texi:571 orgguide.texi:572
+#: orgguide.texi:103 orgguide.texi:298 orgguide.texi:571 orgguide.texi:572
 #: orgguide.texi:696
 #, no-wrap
 msgid "Tables"
@@ -219,7 +219,7 @@ msgstr "Propiedades"
 #. type: node
 #: orgguide.texi:103 orgguide.texi:157 orgguide.texi:1256 orgguide.texi:1317
 #: orgguide.texi:1318 orgguide.texi:1332 orgguide.texi:1395 orgguide.texi:1431
-#: orgguide.texi:1496 orgguide.texi:1548
+#: orgguide.texi:1496 orgguide.texi:1547
 #, no-wrap
 msgid "Dates and Times"
 msgstr "Fechas y horas"
@@ -230,9 +230,9 @@ msgid "Making items useful for planning"
 msgstr "Crear elementos @'utiles para planificar"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:164 orgguide.texi:1317 orgguide.texi:1548
-#: orgguide.texi:1549 orgguide.texi:1563 orgguide.texi:1648 orgguide.texi:1673
-#: orgguide.texi:1708
+#: orgguide.texi:103 orgguide.texi:164 orgguide.texi:1317 orgguide.texi:1547
+#: orgguide.texi:1548 orgguide.texi:1562 orgguide.texi:1647 orgguide.texi:1672
+#: orgguide.texi:1707
 #, no-wrap
 msgid "Capture - Refile - Archive"
 msgstr "Capturar - Rellenar - Archivar"
@@ -243,9 +243,9 @@ msgid "The ins and outs for projects"
 msgstr "Las entradas y salidas para proyectos"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:176 orgguide.texi:1548 orgguide.texi:1708
-#: orgguide.texi:1709 orgguide.texi:1733 orgguide.texi:1751 orgguide.texi:1772
-#: orgguide.texi:1911 orgguide.texi:2022 orgguide.texi:2071
+#: orgguide.texi:103 orgguide.texi:176 orgguide.texi:1547 orgguide.texi:1707
+#: orgguide.texi:1708 orgguide.texi:1732 orgguide.texi:1750 orgguide.texi:1769
+#: orgguide.texi:1893 orgguide.texi:2004 orgguide.texi:2053
 #, no-wrap
 msgid "Agenda Views"
 msgstr "Vistas de la Agenda"
@@ -256,9 +256,9 @@ msgid "Collecting information into views"
 msgstr "Recolectando informaci@'on en vistas"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:1708 orgguide.texi:2071 orgguide.texi:2088
-#: orgguide.texi:2201 orgguide.texi:2232 orgguide.texi:2269 orgguide.texi:2290
-#: orgguide.texi:2316
+#: orgguide.texi:103 orgguide.texi:1707 orgguide.texi:2053 orgguide.texi:2070
+#: orgguide.texi:2183 orgguide.texi:2214 orgguide.texi:2251 orgguide.texi:2272
+#: orgguide.texi:2298
 #, no-wrap
 msgid "Markup"
 msgstr "Marcado"
@@ -269,9 +269,9 @@ msgid "Prepare text for rich export"
 msgstr "Preparar texto para exportaci@'on enriquecida"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:209 orgguide.texi:2071 orgguide.texi:2316
-#: orgguide.texi:2317 orgguide.texi:2334 orgguide.texi:2357 orgguide.texi:2370
-#: orgguide.texi:2386 orgguide.texi:2410 orgguide.texi:2431 orgguide.texi:2452
+#: orgguide.texi:103 orgguide.texi:208 orgguide.texi:2053 orgguide.texi:2298
+#: orgguide.texi:2299 orgguide.texi:2316 orgguide.texi:2337 orgguide.texi:2350
+#: orgguide.texi:2366 orgguide.texi:2390 orgguide.texi:2411 orgguide.texi:2432
 #, no-wrap
 msgid "Exporting"
 msgstr "Exportando"
@@ -282,8 +282,8 @@ msgid "Sharing and publishing of notes"
 msgstr "Compartici@'on y publicaci@'on de notas"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:2316 orgguide.texi:2452 orgguide.texi:2453
-#: orgguide.texi:2499
+#: orgguide.texi:103 orgguide.texi:2298 orgguide.texi:2432 orgguide.texi:2433
+#: orgguide.texi:2479
 #, no-wrap
 msgid "Publishing"
 msgstr "Publicaci@'on"
@@ -294,7 +294,7 @@ msgid "Create a web site of linked Org files"
 msgstr "Crear un sitio web de ficheros Org enlazados"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:2452 orgguide.texi:2499 orgguide.texi:2615
+#: orgguide.texi:103 orgguide.texi:2432 orgguide.texi:2479 orgguide.texi:2596
 #, no-wrap
 msgid "Working With Source Code"
 msgstr "Trabajando con C@'odigo Fuente"
@@ -305,9 +305,9 @@ msgid "Source code snippets embedded in Org"
 msgstr "Trozos de c@'odigo fuente dentro de Org"
 
 #. type: node
-#: orgguide.texi:103 orgguide.texi:218 orgguide.texi:2499 orgguide.texi:2615
-#: orgguide.texi:2616 orgguide.texi:2624 orgguide.texi:2634 orgguide.texi:2678
-#: orgguide.texi:2701
+#: orgguide.texi:103 orgguide.texi:217 orgguide.texi:2479 orgguide.texi:2596
+#: orgguide.texi:2597 orgguide.texi:2605 orgguide.texi:2615 orgguide.texi:2658
+#: orgguide.texi:2681
 #, no-wrap
 msgid "Miscellaneous"
 msgstr "Miscel@'anea"
@@ -318,7 +318,7 @@ msgid "All the rest which did not fit elsewhere"
 msgstr "El resto de cosas que no tienen otro lugar"
 
 #. type: appendix
-#: orgguide.texi:105 orgguide.texi:2615 orgguide.texi:2701 orgguide.texi:2702
+#: orgguide.texi:105 orgguide.texi:2596 orgguide.texi:2681 orgguide.texi:2682
 #, no-wrap
 msgid "GNU Free Documentation License"
 msgstr "GNU Free Documentation License"
@@ -334,146 +334,146 @@ msgid "--- The Detailed Node Listing ---"
 msgstr "--- El Listado Detallado de Nodos ---"
 
 #. type: node
-#: orgguide.texi:115 orgguide.texi:234 orgguide.texi:236 orgguide.texi:237
-#: orgguide.texi:250
+#: orgguide.texi:115 orgguide.texi:233 orgguide.texi:235 orgguide.texi:236
+#: orgguide.texi:249
 #, no-wrap
 msgid "Preface"
 msgstr "Prefacio"
 
 #. type: menuentry
-#: orgguide.texi:115 orgguide.texi:234
+#: orgguide.texi:115 orgguide.texi:233
 msgid "Welcome"
 msgstr "Bienvenida"
 
 #. type: node
-#: orgguide.texi:115 orgguide.texi:234 orgguide.texi:236 orgguide.texi:250
-#: orgguide.texi:251 orgguide.texi:276
+#: orgguide.texi:115 orgguide.texi:233 orgguide.texi:235 orgguide.texi:249
+#: orgguide.texi:250 orgguide.texi:274
 #, no-wrap
 msgid "Installation"
 msgstr "Instalaci@'on"
 
 #. type: menuentry
-#: orgguide.texi:115 orgguide.texi:234
+#: orgguide.texi:115 orgguide.texi:233
 msgid "How to install a downloaded version of Org"
 msgstr "C@'omo instalar una versi@'on descargada de Org"
 
 #. type: node
-#: orgguide.texi:115 orgguide.texi:234 orgguide.texi:250 orgguide.texi:276
-#: orgguide.texi:277 orgguide.texi:293
+#: orgguide.texi:115 orgguide.texi:233 orgguide.texi:249 orgguide.texi:274
+#: orgguide.texi:275 orgguide.texi:291
 #, no-wrap
 msgid "Activation"
 msgstr "Activaci@'on"
 
 #. type: menuentry
-#: orgguide.texi:115 orgguide.texi:234
+#: orgguide.texi:115 orgguide.texi:233
 msgid "How to activate Org for certain buffers"
 msgstr "C@'omo activar Org para ciertos buffers"
 
 #. type: section
-#: orgguide.texi:115 orgguide.texi:234 orgguide.texi:276 orgguide.texi:293
-#: orgguide.texi:294
+#: orgguide.texi:115 orgguide.texi:233 orgguide.texi:274 orgguide.texi:291
+#: orgguide.texi:292
 #, no-wrap
 msgid "Feedback"
 msgstr "Realimentaci@'on"
 
 #. type: menuentry
-#: orgguide.texi:115 orgguide.texi:234
+#: orgguide.texi:115 orgguide.texi:233
 msgid "Bug reports, ideas, patches etc."
 msgstr "Informes de error, ideas, parches, etc."
 
 #. type: node
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:317 orgguide.texi:318
-#: orgguide.texi:329
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:315 orgguide.texi:316
+#: orgguide.texi:327
 #, no-wrap
 msgid "Outlines"
 msgstr "Outlines"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "Org is based on Outline mode"
 msgstr "Org est@'a basado en el modo Outline"
 
 #. type: node
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:317 orgguide.texi:329
-#: orgguide.texi:330 orgguide.texi:353
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:315 orgguide.texi:327
+#: orgguide.texi:328 orgguide.texi:354
 #, no-wrap
 msgid "Headlines"
 msgstr "Cabeceras"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "How to typeset Org tree headlines"
 msgstr "C@'omo escribir un @'arbol de cabeceras Org"
 
 #. type: node
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:329 orgguide.texi:353
-#: orgguide.texi:354 orgguide.texi:395
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:327 orgguide.texi:354
+#: orgguide.texi:355 orgguide.texi:396
 #, no-wrap
 msgid "Visibility cycling"
 msgstr "Visibilidad c@'{@dotless{i}}clica"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "Show and hide, much simplified"
 msgstr "Mostrar y ocultar, muy simplificado"
 
 #. type: node
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:353 orgguide.texi:395
-#: orgguide.texi:396 orgguide.texi:412
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:354 orgguide.texi:396
+#: orgguide.texi:397 orgguide.texi:413
 #, no-wrap
 msgid "Motion"
 msgstr "Movimiento"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "Jumping to other headlines"
 msgstr "Saltando a otras cabeceras"
 
 #. type: node
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:395 orgguide.texi:412
-#: orgguide.texi:413 orgguide.texi:443
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:396 orgguide.texi:413
+#: orgguide.texi:414 orgguide.texi:444
 #, no-wrap
 msgid "Structure editing"
 msgstr "Edici@'on de estructura"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "Changing sequence and level of headlines"
 msgstr "Cambiando la secuencia y el nivel de cabeceras"
 
 #. type: node
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:412 orgguide.texi:443
-#: orgguide.texi:444 orgguide.texi:469
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:413 orgguide.texi:444
+#: orgguide.texi:445 orgguide.texi:469
 #, no-wrap
 msgid "Sparse trees"
 msgstr "@'Arboles poco densos"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "Matches embedded in context"
 msgstr "Correspondencias embebidas en contexto"
 
 #. type: node
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:443 orgguide.texi:469
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:444 orgguide.texi:469
 #: orgguide.texi:470 orgguide.texi:536
 #, no-wrap
 msgid "Plain lists"
 msgstr "Listas planas"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "Additional structure within an entry"
 msgstr "Estructura adicional con una entrada"
 
 #. type: section
-#: orgguide.texi:126 orgguide.texi:315 orgguide.texi:469 orgguide.texi:536
+#: orgguide.texi:126 orgguide.texi:313 orgguide.texi:469 orgguide.texi:536
 #: orgguide.texi:537
 #, no-wrap
 msgid "Footnotes"
 msgstr "Notas al pie"
 
 #. type: menuentry
-#: orgguide.texi:126 orgguide.texi:315
+#: orgguide.texi:126 orgguide.texi:313
 msgid "How footnotes are defined in Org's syntax"
 msgstr "C@'omo las notas al pie se definen en Org"
 
@@ -731,448 +731,436 @@ msgid "Tracking how long you spend on a task"
 msgstr "Llevar cuenta del gasto en una tarea"
 
 #. type: node
-#: orgguide.texi:168 orgguide.texi:170 orgguide.texi:1561 orgguide.texi:1563
-#: orgguide.texi:1564 orgguide.texi:1576 orgguide.texi:1589 orgguide.texi:1605
-#: orgguide.texi:1648
+#: orgguide.texi:168 orgguide.texi:170 orgguide.texi:1560 orgguide.texi:1562
+#: orgguide.texi:1563 orgguide.texi:1575 orgguide.texi:1588 orgguide.texi:1604
+#: orgguide.texi:1647
 #, no-wrap
 msgid "Capture"
 msgstr "Capturar"
 
 #. type: menuentry
-#: orgguide.texi:168 orgguide.texi:1561
+#: orgguide.texi:168 orgguide.texi:1560
 msgid "Capturing new stuff"
 msgstr "Capturando nuevas cosas"
 
 #. type: node
-#: orgguide.texi:168 orgguide.texi:1561 orgguide.texi:1563 orgguide.texi:1648
-#: orgguide.texi:1649 orgguide.texi:1673
+#: orgguide.texi:168 orgguide.texi:1560 orgguide.texi:1562 orgguide.texi:1647
+#: orgguide.texi:1648 orgguide.texi:1672
 #, no-wrap
 msgid "Refile and copy"
 msgstr "Rellenar y copiar"
 
 #. type: menuentry
-#: orgguide.texi:168 orgguide.texi:1561
+#: orgguide.texi:168 orgguide.texi:1560
 msgid "Moving a tree from one place to another"
 msgstr "Moviendo un @'arbol de un lugar a otro"
 
 #. type: section
-#: orgguide.texi:168 orgguide.texi:1561 orgguide.texi:1648 orgguide.texi:1673
-#: orgguide.texi:1674
+#: orgguide.texi:168 orgguide.texi:1560 orgguide.texi:1647 orgguide.texi:1672
+#: orgguide.texi:1673
 #, no-wrap
 msgid "Archiving"
 msgstr "Archivando"
 
 #. type: menuentry
-#: orgguide.texi:168 orgguide.texi:1561
+#: orgguide.texi:168 orgguide.texi:1560
 msgid "What to do with finished projects"
 msgstr "Qu@'e se hace con los proyectos terminados"
 
 #. type: node
-#: orgguide.texi:174 orgguide.texi:1574 orgguide.texi:1576 orgguide.texi:1577
-#: orgguide.texi:1589
+#: orgguide.texi:174 orgguide.texi:1573 orgguide.texi:1575 orgguide.texi:1576
+#: orgguide.texi:1588
 #, no-wrap
 msgid "Setting up a capture location"
 msgstr "Poniendo una posici@'on de captura"
 
 #. type: menuentry
-#: orgguide.texi:174 orgguide.texi:1574
+#: orgguide.texi:174 orgguide.texi:1573
 msgid "Where notes will be stored"
 msgstr "Donde ser@'an almacenadas las notas"
 
 #. type: node
-#: orgguide.texi:174 orgguide.texi:1574 orgguide.texi:1576 orgguide.texi:1589
-#: orgguide.texi:1590 orgguide.texi:1605
+#: orgguide.texi:174 orgguide.texi:1573 orgguide.texi:1575 orgguide.texi:1588
+#: orgguide.texi:1589 orgguide.texi:1604
 #, no-wrap
 msgid "Using capture"
 msgstr "Usando capturas"
 
 #. type: menuentry
-#: orgguide.texi:174 orgguide.texi:1574
+#: orgguide.texi:174 orgguide.texi:1573
 msgid "Commands to invoke and terminate capture"
 msgstr "Comandos para invocar y finalizar capturas"
 
 #. type: unnumberedsubsec
-#: orgguide.texi:174 orgguide.texi:1574 orgguide.texi:1589 orgguide.texi:1605
-#: orgguide.texi:1606
+#: orgguide.texi:174 orgguide.texi:1573 orgguide.texi:1588 orgguide.texi:1604
+#: orgguide.texi:1605
 #, no-wrap
 msgid "Capture templates"
 msgstr "Plantillas para capturar notas"
 
 #. type: menuentry
-#: orgguide.texi:174 orgguide.texi:1574
+#: orgguide.texi:174 orgguide.texi:1573
 msgid "Define the outline of different note types"
 msgstr "Define la idea de diferentes tipos de notas"
 
 #. type: node
-#: orgguide.texi:182 orgguide.texi:1731 orgguide.texi:1733 orgguide.texi:1734
-#: orgguide.texi:1751
+#: orgguide.texi:182 orgguide.texi:1730 orgguide.texi:1732 orgguide.texi:1733
+#: orgguide.texi:1750
 #, no-wrap
 msgid "Agenda files"
 msgstr "Archivos de agenda"
 
 #. type: menuentry
-#: orgguide.texi:182 orgguide.texi:1731
+#: orgguide.texi:182 orgguide.texi:1730
 msgid "Files being searched for agenda information"
 msgstr "Archivos buscados en la agenda"
 
 #. type: node
-#: orgguide.texi:182 orgguide.texi:1731 orgguide.texi:1733 orgguide.texi:1751
-#: orgguide.texi:1772
+#: orgguide.texi:182 orgguide.texi:1730 orgguide.texi:1732 orgguide.texi:1750
+#: orgguide.texi:1769
 #, no-wrap
 msgid "Agenda dispatcher"
 msgstr "El disparador de la agenda"
 
 #. type: menuentry
-#: orgguide.texi:182 orgguide.texi:1731
+#: orgguide.texi:182 orgguide.texi:1730
 msgid "Keyboard access to agenda views"
 msgstr "Acceso a las vistas de la agenda con teclado"
 
 #. type: node
-#: orgguide.texi:182 orgguide.texi:1731 orgguide.texi:1751 orgguide.texi:1772
-#: orgguide.texi:1783 orgguide.texi:1812 orgguide.texi:1828 orgguide.texi:1874
-#: orgguide.texi:1888 orgguide.texi:1911
+#: orgguide.texi:182 orgguide.texi:1730 orgguide.texi:1750 orgguide.texi:1769
+#: orgguide.texi:1779 orgguide.texi:1808 orgguide.texi:1824 orgguide.texi:1870
+#: orgguide.texi:1893
 #, no-wrap
 msgid "Built-in agenda views"
 msgstr "Vistas de agenda internas"
 
 #. type: menuentry
-#: orgguide.texi:182 orgguide.texi:1731
+#: orgguide.texi:182 orgguide.texi:1730
 msgid "What is available out of the box?"
 msgstr "¿Qu@'e hay fuera de la caja?"
 
 #. type: node
-#: orgguide.texi:182 orgguide.texi:1731 orgguide.texi:1772 orgguide.texi:1911
-#: orgguide.texi:2022
+#: orgguide.texi:182 orgguide.texi:1730 orgguide.texi:1769 orgguide.texi:1893
+#: orgguide.texi:2004
 #, no-wrap
 msgid "Agenda commands"
 msgstr "Comandos de la agenda"
 
 #. type: menuentry
-#: orgguide.texi:182 orgguide.texi:1731
+#: orgguide.texi:182 orgguide.texi:1730
 msgid "Remote editing of Org trees"
 msgstr "Edici@'on remota de @'arboles Org"
 
 #. type: section
-#: orgguide.texi:182 orgguide.texi:1731 orgguide.texi:1911 orgguide.texi:2022
-#: orgguide.texi:2023
+#: orgguide.texi:182 orgguide.texi:1730 orgguide.texi:1893 orgguide.texi:2004
+#: orgguide.texi:2005
 #, no-wrap
 msgid "Custom agenda views"
 msgstr "Vistas de agenda personalizadas"
 
 #. type: menuentry
-#: orgguide.texi:182 orgguide.texi:1731
+#: orgguide.texi:182 orgguide.texi:1730
 msgid "Defining special searches and views"
 msgstr "Definir b@'usquedas y vistas especiales"
 
 #. type: section
-#: orgguide.texi:184 orgguide.texi:1773
+#: orgguide.texi:184 orgguide.texi:1770
 #, no-wrap
 msgid "The built-in agenda views"
 msgstr "Las vistas internas de la agenda"
 
 #. type: node
-#: orgguide.texi:190 orgguide.texi:1781 orgguide.texi:1783 orgguide.texi:1812
+#: orgguide.texi:189 orgguide.texi:1777 orgguide.texi:1779 orgguide.texi:1808
 #, no-wrap
 msgid "Weekly/daily agenda"
 msgstr "Agenda semanal/diaria"
 
 #. type: menuentry
-#: orgguide.texi:190 orgguide.texi:1781
+#: orgguide.texi:189 orgguide.texi:1777
 msgid "The calendar page with current tasks"
 msgstr "La p@'agina del calendario con las tareas"
 
 #. type: node
-#: orgguide.texi:190 orgguide.texi:1781 orgguide.texi:1783 orgguide.texi:1812
-#: orgguide.texi:1828
+#: orgguide.texi:189 orgguide.texi:1777 orgguide.texi:1779 orgguide.texi:1808
+#: orgguide.texi:1824
 #, no-wrap
 msgid "Global TODO list"
 msgstr "Lista global TODO"
 
 #. type: menuentry
-#: orgguide.texi:190 orgguide.texi:1781
+#: orgguide.texi:189 orgguide.texi:1777
 msgid "All unfinished action items"
 msgstr "Elementos de acciones sin finalizar"
 
 #. type: node
-#: orgguide.texi:190 orgguide.texi:1781 orgguide.texi:1812 orgguide.texi:1828
-#: orgguide.texi:1829 orgguide.texi:1874
+#: orgguide.texi:189 orgguide.texi:1777 orgguide.texi:1808 orgguide.texi:1824
+#: orgguide.texi:1825 orgguide.texi:1870
 #, no-wrap
 msgid "Matching tags and properties"
 msgstr "Emparejar marcas y propiedades"
 
 #. type: menuentry
-#: orgguide.texi:190 orgguide.texi:1781
+#: orgguide.texi:189 orgguide.texi:1777
 msgid "Structured information with fine-tuned search"
 msgstr "Informaci@'on con b@'usquedas afinadas"
 
-#. type: node
-#: orgguide.texi:190 orgguide.texi:1781 orgguide.texi:1828 orgguide.texi:1874
-#: orgguide.texi:1888
-#, no-wrap
-msgid "Timeline"
-msgstr "L@'{@dotless{i}}nea de tiempo"
-
-#. type: menuentry
-#: orgguide.texi:190 orgguide.texi:1781
-msgid "Time-sorted view for single file"
-msgstr "Vista ordenada en el tiempo de un archivo"
-
 #. type: subsection
-#: orgguide.texi:190 orgguide.texi:1781 orgguide.texi:1874 orgguide.texi:1888
-#: orgguide.texi:1889
+#: orgguide.texi:189 orgguide.texi:1777 orgguide.texi:1824 orgguide.texi:1870
+#: orgguide.texi:1871
 #, no-wrap
 msgid "Search view"
 msgstr "Vista de b@'usqueda"
 
 #. type: menuentry
-#: orgguide.texi:190 orgguide.texi:1781
+#: orgguide.texi:189 orgguide.texi:1777
 msgid "Find entries by searching for text"
 msgstr "Encontrando entradas buscando texto"
 
 #. type: chapter
-#: orgguide.texi:192 orgguide.texi:2072
+#: orgguide.texi:191 orgguide.texi:2054
 #, no-wrap
 msgid "Markup for rich export"
 msgstr "Marcas para enriquecer la exportaci@'on"
 
 #. type: node
-#: orgguide.texi:198 orgguide.texi:200 orgguide.texi:2086 orgguide.texi:2088
-#: orgguide.texi:2089 orgguide.texi:2100 orgguide.texi:2110 orgguide.texi:2125
-#: orgguide.texi:2136 orgguide.texi:2174 orgguide.texi:2183 orgguide.texi:2201
+#: orgguide.texi:197 orgguide.texi:199 orgguide.texi:2068 orgguide.texi:2070
+#: orgguide.texi:2071 orgguide.texi:2082 orgguide.texi:2092 orgguide.texi:2107
+#: orgguide.texi:2118 orgguide.texi:2156 orgguide.texi:2165 orgguide.texi:2183
 #, no-wrap
 msgid "Structural markup elements"
 msgstr "Elementos del marcado estructural"
 
 #. type: menuentry
-#: orgguide.texi:198 orgguide.texi:2086
+#: orgguide.texi:197 orgguide.texi:2068
 msgid "The basic structure as seen by the exporter"
 msgstr "Estructura vista por el exportador"
 
 #. type: node
-#: orgguide.texi:198 orgguide.texi:2086 orgguide.texi:2088 orgguide.texi:2201
-#: orgguide.texi:2232
+#: orgguide.texi:197 orgguide.texi:2068 orgguide.texi:2070 orgguide.texi:2183
+#: orgguide.texi:2214
 #, no-wrap
 msgid "Images and tables"
 msgstr "Im@'agenes y tablas"
 
 #. type: menuentry
-#: orgguide.texi:198 orgguide.texi:2086
+#: orgguide.texi:197 orgguide.texi:2068
 msgid "Images, tables and caption mechanism"
 msgstr "Im@'agenes, tablas y mecanismo de caption"
 
 #. type: node
-#: orgguide.texi:198 orgguide.texi:2086 orgguide.texi:2201 orgguide.texi:2232
-#: orgguide.texi:2233 orgguide.texi:2269
+#: orgguide.texi:197 orgguide.texi:2068 orgguide.texi:2183 orgguide.texi:2214
+#: orgguide.texi:2215 orgguide.texi:2251
 #, no-wrap
 msgid "Literal examples"
 msgstr "Ejemplos literales"
 
 #. type: menuentry
-#: orgguide.texi:198 orgguide.texi:2086
+#: orgguide.texi:197 orgguide.texi:2068
 msgid "Source code examples with special formatting"
 msgstr "Ejemplos de c@'odigo fuente con formato especial"
 
 #. type: node
-#: orgguide.texi:198 orgguide.texi:2086 orgguide.texi:2232 orgguide.texi:2269
-#: orgguide.texi:2270 orgguide.texi:2290
+#: orgguide.texi:197 orgguide.texi:2068 orgguide.texi:2214 orgguide.texi:2251
+#: orgguide.texi:2252 orgguide.texi:2272
 #, no-wrap
 msgid "Include files"
 msgstr "Archivos Include"
 
 #. type: menuentry
-#: orgguide.texi:198 orgguide.texi:2086
+#: orgguide.texi:197 orgguide.texi:2068
 msgid "Include additional files into a document"
 msgstr "Archivos adicionales Include dentro de un documento"
 
 #. type: section
-#: orgguide.texi:198 orgguide.texi:2086 orgguide.texi:2269 orgguide.texi:2290
-#: orgguide.texi:2291
+#: orgguide.texi:197 orgguide.texi:2068 orgguide.texi:2251 orgguide.texi:2272
+#: orgguide.texi:2273
 #, no-wrap
 msgid "Embedded @LaTeX{}"
 msgstr "@LaTeX{} embebido"
 
 #. type: menuentry
-#: orgguide.texi:198 orgguide.texi:2086
+#: orgguide.texi:197 orgguide.texi:2068
 msgid "@LaTeX{} can be freely used inside Org documents"
 msgstr "@LaTeX{} puede usarse en documentos Org"
 
 #. type: node
-#: orgguide.texi:207 orgguide.texi:2098 orgguide.texi:2100 orgguide.texi:2101
-#: orgguide.texi:2110
+#: orgguide.texi:206 orgguide.texi:2080 orgguide.texi:2082 orgguide.texi:2083
+#: orgguide.texi:2092
 #, no-wrap
 msgid "Document title"
 msgstr "T@'{@dotless{i}}tulo de documento"
 
 #. type: menuentry
-#: orgguide.texi:207 orgguide.texi:2098
+#: orgguide.texi:206 orgguide.texi:2080
 msgid "Where the title is taken from"
 msgstr "Donde se toma el t@'{@dotless{i}}tulo"
 
 #. type: node
-#: orgguide.texi:207 orgguide.texi:2098 orgguide.texi:2100 orgguide.texi:2110
-#: orgguide.texi:2111 orgguide.texi:2125
+#: orgguide.texi:206 orgguide.texi:2080 orgguide.texi:2082 orgguide.texi:2092
+#: orgguide.texi:2093 orgguide.texi:2107
 #, no-wrap
 msgid "Headings and sections"
 msgstr "Encabezados y secciones"
 
 #. type: menuentry
-#: orgguide.texi:207 orgguide.texi:2098
+#: orgguide.texi:206 orgguide.texi:2080
 msgid "The document structure as seen by the exporter"
 msgstr "Estructura vista por el exportador"
 
 #. type: node
-#: orgguide.texi:207 orgguide.texi:2098 orgguide.texi:2110 orgguide.texi:2125
-#: orgguide.texi:2126 orgguide.texi:2136
+#: orgguide.texi:206 orgguide.texi:2080 orgguide.texi:2092 orgguide.texi:2107
+#: orgguide.texi:2108 orgguide.texi:2118
 #, no-wrap
 msgid "Table of contents"
 msgstr "Tabla de contenidos"
 
 #. type: menuentry
-#: orgguide.texi:207 orgguide.texi:2098
+#: orgguide.texi:206 orgguide.texi:2080
 msgid "The if and where of the table of contents"
 msgstr "El si y el donde de la tabla de contenidos"
 
 #. type: node
-#: orgguide.texi:207 orgguide.texi:2098 orgguide.texi:2125 orgguide.texi:2136
-#: orgguide.texi:2174
+#: orgguide.texi:206 orgguide.texi:2080 orgguide.texi:2107 orgguide.texi:2118
+#: orgguide.texi:2156
 #, no-wrap
 msgid "Paragraphs"
 msgstr "P@'arrafos"
 
 #. type: node
-#: orgguide.texi:207 orgguide.texi:2098 orgguide.texi:2136 orgguide.texi:2174
-#: orgguide.texi:2175 orgguide.texi:2183
+#: orgguide.texi:206 orgguide.texi:2080 orgguide.texi:2118 orgguide.texi:2156
+#: orgguide.texi:2157 orgguide.texi:2165
 #, no-wrap
 msgid "Emphasis and monospace"
 msgstr "@'Enfasis y monoespacio"
 
 #. type: menuentry
-#: orgguide.texi:207 orgguide.texi:2098
+#: orgguide.texi:206 orgguide.texi:2080
 msgid "Bold, italic, etc."
 msgstr "Negrilla, it@'alica, etc."
 
 #. type: subheading
-#: orgguide.texi:207 orgguide.texi:2098 orgguide.texi:2174 orgguide.texi:2183
-#: orgguide.texi:2184
+#: orgguide.texi:206 orgguide.texi:2080 orgguide.texi:2156 orgguide.texi:2165
+#: orgguide.texi:2166
 #, no-wrap
 msgid "Comment lines"
 msgstr "L@'{@dotless{i}}neas de comentarios"
 
 #. type: menuentry
-#: orgguide.texi:207 orgguide.texi:2098
+#: orgguide.texi:206 orgguide.texi:2080
 msgid "What will *not* be exported"
 msgstr "Qu@'e *no* ser@'a exportado"
 
 #. type: node
-#: orgguide.texi:216 orgguide.texi:2332 orgguide.texi:2334 orgguide.texi:2335
-#: orgguide.texi:2357
+#: orgguide.texi:215 orgguide.texi:2314 orgguide.texi:2316 orgguide.texi:2317
+#: orgguide.texi:2337
 #, no-wrap
 msgid "Export options"
 msgstr "Opciones de exportaci@'on"
 
 #. type: menuentry
-#: orgguide.texi:216 orgguide.texi:2332
+#: orgguide.texi:215 orgguide.texi:2314
 msgid "Per-file export settings"
 msgstr "Configuraci@'ones del perfil de exportaci@'on"
 
 #. type: node
-#: orgguide.texi:216 orgguide.texi:2332 orgguide.texi:2334 orgguide.texi:2357
-#: orgguide.texi:2358 orgguide.texi:2370
+#: orgguide.texi:215 orgguide.texi:2314 orgguide.texi:2316 orgguide.texi:2337
+#: orgguide.texi:2338 orgguide.texi:2350
 #, no-wrap
 msgid "The export dispatcher"
 msgstr "El dispensador de exportaci@'on"
 
 #. type: menuentry
-#: orgguide.texi:216 orgguide.texi:2332
+#: orgguide.texi:215 orgguide.texi:2314
 msgid "How to access exporter commands"
 msgstr "Como acceder a comandos del exportador"
 
 #. type: node
-#: orgguide.texi:216 orgguide.texi:2332 orgguide.texi:2357 orgguide.texi:2370
-#: orgguide.texi:2371 orgguide.texi:2386
+#: orgguide.texi:215 orgguide.texi:2314 orgguide.texi:2337 orgguide.texi:2350
+#: orgguide.texi:2351 orgguide.texi:2366
 #, no-wrap
 msgid "ASCII/Latin-1/UTF-8 export"
 msgstr "Exportaci@'on ASCII/Latin-1/UTF-8"
 
 #. type: menuentry
-#: orgguide.texi:216 orgguide.texi:2332
+#: orgguide.texi:215 orgguide.texi:2314
 msgid "Exporting to flat files with encoding"
 msgstr "Exporta a ficheros con codificaci@'on"
 
 #. type: node
-#: orgguide.texi:216 orgguide.texi:2332 orgguide.texi:2370 orgguide.texi:2386
-#: orgguide.texi:2387 orgguide.texi:2410
+#: orgguide.texi:215 orgguide.texi:2314 orgguide.texi:2350 orgguide.texi:2366
+#: orgguide.texi:2367 orgguide.texi:2390
 #, no-wrap
 msgid "HTML export"
 msgstr "HTML export"
 
 #. type: menuentry
-#: orgguide.texi:216 orgguide.texi:2332
+#: orgguide.texi:215 orgguide.texi:2314
 msgid "Exporting to HTML"
 msgstr "Exportando a HTML"
 
 #. type: node
-#: orgguide.texi:216 orgguide.texi:2332 orgguide.texi:2386 orgguide.texi:2410
-#: orgguide.texi:2411 orgguide.texi:2431
+#: orgguide.texi:215 orgguide.texi:2314 orgguide.texi:2366 orgguide.texi:2390
+#: orgguide.texi:2391 orgguide.texi:2411
 #, no-wrap
 msgid "@LaTeX{} and PDF export"
 msgstr "Exportar @LaTeX{} y PDF"
 
 #. type: menuentry
-#: orgguide.texi:216 orgguide.texi:2332
+#: orgguide.texi:215 orgguide.texi:2314
 msgid "Exporting to @LaTeX{}, and processing to PDF"
 msgstr "Exportando a @LaTeX{}, y procesando a PDF"
 
 #. type: section
-#: orgguide.texi:216 orgguide.texi:2332 orgguide.texi:2410 orgguide.texi:2431
-#: orgguide.texi:2432
+#: orgguide.texi:215 orgguide.texi:2314 orgguide.texi:2390 orgguide.texi:2411
+#: orgguide.texi:2412
 #, no-wrap
 msgid "iCalendar export"
 msgstr "Exportar iCalendar"
 
 #. type: menuentry
-#: orgguide.texi:216 orgguide.texi:2332
+#: orgguide.texi:215 orgguide.texi:2314
 msgid "Exporting to iCalendar"
 msgstr "Exportando a iCalendar"
 
 #. type: node
-#: orgguide.texi:222 orgguide.texi:2622 orgguide.texi:2624 orgguide.texi:2625
-#: orgguide.texi:2634
+#: orgguide.texi:221 orgguide.texi:2603 orgguide.texi:2605 orgguide.texi:2606
+#: orgguide.texi:2615
 #, no-wrap
 msgid "Completion"
 msgstr "Terminaci@'on"
 
 #. type: menuentry
-#: orgguide.texi:222 orgguide.texi:2622
+#: orgguide.texi:221 orgguide.texi:2603
 msgid "M-TAB knows what you need"
 msgstr "M-TAB sabe qu@'e necesita"
 
 #. type: node
-#: orgguide.texi:222 orgguide.texi:2622 orgguide.texi:2624 orgguide.texi:2634
-#: orgguide.texi:2678
+#: orgguide.texi:221 orgguide.texi:2603 orgguide.texi:2605 orgguide.texi:2615
+#: orgguide.texi:2658
 #, no-wrap
 msgid "Clean view"
 msgstr "Vista limpia"
 
 #. type: menuentry
-#: orgguide.texi:222 orgguide.texi:2622
+#: orgguide.texi:221 orgguide.texi:2603
 msgid "Getting rid of leading stars in the outline"
 msgstr "Eliminar asteriscos iniciales en outline"
 
 #. type: section
-#: orgguide.texi:222 orgguide.texi:2622 orgguide.texi:2634 orgguide.texi:2678
-#: orgguide.texi:2679
+#: orgguide.texi:221 orgguide.texi:2603 orgguide.texi:2615 orgguide.texi:2658
+#: orgguide.texi:2659
 #, no-wrap
 msgid "MobileOrg"
 msgstr "Org m@'ovil"
 
 #. type: menuentry
-#: orgguide.texi:222 orgguide.texi:2622
+#: orgguide.texi:221 orgguide.texi:2603
 msgid "Org-mode on the iPhone"
 msgstr "Org-mode en el iPhone"
 
 #. type: Plain text
-#: orgguide.texi:243
+#: orgguide.texi:242
 msgid ""
 "Org is a mode for keeping notes, maintaining TODO lists, and doing project "
 "planning with a fast and effective plain-text system.  It is also an "
@@ -1186,7 +1174,7 @@ msgstr ""
 "programaci@'on literal e investigaci@'on reproducible."
 
 #. type: i{#1}
-#: orgguide.texi:249
+#: orgguide.texi:248
 msgid ""
 "This document is a much compressed derivative of the @uref{https://orgmode."
 "org/index.html#sec-4_1, comprehensive Org-mode manual}.  It contains all "
@@ -1202,18 +1190,18 @@ msgstr ""
 "por su tama@~no."
 
 #. type: Plain text
-#: orgguide.texi:256
+#: orgguide.texi:254
 msgid ""
 "@b{Important:} @i{If you are using a version of Org that is part of the "
-"Emacs distribution or an XEmacs package, please skip this section and go "
-"directly to @ref{Activation}.}"
+"Emacs distribution, please skip this section and go directly to "
+"@ref{Activation}.}"
 msgstr ""
-"@b{Importante:} @i{Si se usa una versi@'on de Org que es parte de una\n"
-"distribuci@'on de Emacs o un paquete de XEmacs, por favor s@'altese\n"
-"esta secci@'on y vaya directamente a @ref{Activaci@'on}.}"
+"@b{Importante:} @i{Si se usa una versi@'on de Org que es parte de la\n"
+"distribuci@'on de Emacs, por favor s@'altese esta secci@'on y vaya\n"
+"directamente a @ref{Activaci@'on}.}"
 
 #. type: Plain text
-#: orgguide.texi:261
+#: orgguide.texi:259
 msgid ""
 "If you have downloaded Org from the Web, either as a distribution @file{."
 "zip} or @file{.tar} file, or as a Git archive, it is best to run it directly "
@@ -1229,7 +1217,7 @@ msgstr ""
 "l@'{@dotless{i}}nea al archivo @file{.emacs}:"
 
 #. type: smallexample
-#: orgguide.texi:265
+#: orgguide.texi:263
 #, no-wrap
 msgid ""
 "(setq load-path (cons \"~/path/to/orgdir/lisp\" load-path))\n"
@@ -1239,7 +1227,7 @@ msgstr ""
 "(setq load-path (cons \"~/path/to/orgdir/contrib/lisp\" load-path))\n"
 
 #. type: Plain text
-#: orgguide.texi:271
+#: orgguide.texi:269
 msgid ""
 "If you have been using git or a tar ball to get Org, you need to run the "
 "following command to generate autoload information.  command:"
@@ -1249,13 +1237,13 @@ msgstr ""
 "autocarga. Comando:"
 
 #. type: smallexample
-#: orgguide.texi:274
+#: orgguide.texi:272
 #, no-wrap
 msgid "make autoloads\n"
 msgstr "make autoloads\n"
 
 #. type: Plain text
-#: orgguide.texi:282
+#: orgguide.texi:280
 msgid ""
 "Add the following lines to your @file{.emacs} file.  The last four lines "
 "define @emph{global} keys for some commands --- please choose suitable keys "
@@ -1267,7 +1255,7 @@ msgstr ""
 "apropiadas por s@'{@dotless{i}} mismo."
 
 #. type: smalllisp
-#: orgguide.texi:289
+#: orgguide.texi:287
 #, no-wrap
 msgid ""
 ";; The following lines are always needed.  Choose your own keys.\n"
@@ -1284,7 +1272,7 @@ msgstr ""
 "(global-set-key \"\\C-cb\" 'org-iswitchb)\n"
 
 #. type: Plain text
-#: orgguide.texi:292
+#: orgguide.texi:290
 msgid ""
 "Files with extension @samp{.org} will be put into Org mode automatically."
 msgstr ""
@@ -1292,7 +1280,7 @@ msgstr ""
 "autom@'aticamente."
 
 #. type: Plain text
-#: orgguide.texi:299
+#: orgguide.texi:297
 msgid ""
 "If you find problems with Org, or if you have questions, remarks, or ideas "
 "about it, please mail to the Org mailing list @email{emacs-orgmode@@gnu."
@@ -1305,7 +1293,7 @@ msgstr ""
 "principal."
 
 #. type: Plain text
-#: orgguide.texi:305
+#: orgguide.texi:303
 msgid ""
 "Org is based on Outline mode and provides flexible commands to edit the "
 "structure of the document."
@@ -1314,7 +1302,7 @@ msgstr ""
 "para editar la estructura de un documento."
 
 #. type: Plain text
-#: orgguide.texi:328
+#: orgguide.texi:326
 msgid ""
 "Org is implemented on top of Outline mode.  Outlines allow a document to be "
 "organized in a hierarchical structure, which (at least for me) is the best "
@@ -1337,7 +1325,7 @@ msgstr ""
 "comando, @command{org-cycle}, el cual se asigna a la tecla @key{TAB}."
 
 #. type: Plain text
-#: orgguide.texi:336
+#: orgguide.texi:334
 msgid ""
 "Headlines define the structure of an outline tree.  The headlines in Org "
 "start with one or more stars, on the left margin@footnote{See the variable "
@@ -1355,7 +1343,7 @@ msgstr ""
 "t@'{@dotless{i}}tulos.}. Por ejemplo:"
 
 #. type: smallexample
-#: orgguide.texi:344
+#: orgguide.texi:342
 #, no-wrap
 msgid ""
 "* Top level headline\n"
@@ -1375,13 +1363,23 @@ msgstr ""
 "\n"
 
 #. type: smallexample
-#: orgguide.texi:346
+#: orgguide.texi:344
 #, no-wrap
 msgid "* Another top level headline\n"
 msgstr "* Otro t@'{@dotless{i}}tulo de nivel superior\n"
 
 #. type: Plain text
-#: orgguide.texi:352
+#: orgguide.texi:349
+msgid ""
+"which defaults to @samp{Footnotes}, is considered as special.  A subtree "
+"with this headline will be silently ignored by exporting functions."
+msgstr ""
+"que por defecto @samp{Notas al pi@'e}, es considerado como\n"
+"especial. Un sub@'arbol con esta cabecera ser@'a ignorado al exportar\n"
+"funciones."
+
+#. type: Plain text
+#: orgguide.texi:353
 msgid ""
 "Some people find the many stars too noisy and would prefer an outline that "
 "has whitespace followed by a single star as headline starters.  @ref{Clean "
@@ -1394,7 +1392,7 @@ msgstr ""
 "describe una configuraci@'on para realizar esto."
 
 #. type: Plain text
-#: orgguide.texi:359
+#: orgguide.texi:360
 msgid ""
 "Outlines make it possible to hide parts of the text in the buffer.  Org uses "
 "just two commands, bound to @key{TAB} and @kbd{S-@key{TAB}} to change the "
@@ -1405,20 +1403,20 @@ msgstr ""
 "@kbd{S-@key{TAB}}, para cambiar la visibilidad en el b@'uffer."
 
 #. type: key{#1}
-#: orgguide.texi:361 orgguide.texi:512 orgguide.texi:639 orgguide.texi:1933
+#: orgguide.texi:362 orgguide.texi:512 orgguide.texi:639 orgguide.texi:1915
 #, no-wrap
 msgid "TAB"
 msgstr "TAB"
 
 #. type: table
-#: orgguide.texi:363
+#: orgguide.texi:364
 msgid "@emph{Subtree cycling}: Rotate current subtree among the states"
 msgstr ""
 "@emph{Sub@'arbol c@'{@dotless{i}}clico}: Rotaci@'on en el sub@'arbol\n"
 "entre los estados"
 
 #. type: smallexample
-#: orgguide.texi:367
+#: orgguide.texi:368
 #, no-wrap
 msgid ""
 ",-> FOLDED -> CHILDREN -> SUBTREE --.\n"
@@ -1428,7 +1426,7 @@ msgstr ""
 "'------------------------------------'\n"
 
 #. type: table
-#: orgguide.texi:371
+#: orgguide.texi:372
 msgid ""
 "When called with a prefix argument (@kbd{C-u @key{TAB}}) or with the shift "
 "key, global cycling is invoked."
@@ -1437,18 +1435,18 @@ msgstr ""
 "la tecla de desplazamiento (@kbd{Shift}), se invoca el ciclo global."
 
 #. type: item
-#: orgguide.texi:372
+#: orgguide.texi:373
 #, no-wrap
 msgid "S-@key{TAB} @r{and} C-u @key{TAB}"
 msgstr "S-@key{TAB} @r{y} C-u @key{TAB}"
 
 #. type: table
-#: orgguide.texi:374
+#: orgguide.texi:375
 msgid "@emph{Global cycling}: Rotate the entire buffer among the states"
 msgstr "@emph{Ciclo global}: Rotar el b@'uffer entero entre los estados"
 
 #. type: smallexample
-#: orgguide.texi:378
+#: orgguide.texi:379
 #, no-wrap
 msgid ""
 ",-> OVERVIEW -> CONTENTS -> SHOW ALL --.\n"
@@ -1459,18 +1457,18 @@ msgstr ""
 "'"
 
 #. type: item
-#: orgguide.texi:380
+#: orgguide.texi:381
 #, no-wrap
 msgid "C-u C-u C-u @key{TAB}"
 msgstr "C-u C-u C-u @key{TAB}"
 
 #. type: table
-#: orgguide.texi:382
+#: orgguide.texi:383
 msgid "Show all, including drawers."
 msgstr "Mostrar todo, incluidos los calzoncillos"
 
 #. type: Plain text
-#: orgguide.texi:389
+#: orgguide.texi:390
 msgid ""
 "When Emacs first visits an Org file, the global state is set to OVERVIEW, i."
 "e.@: only the top level headlines are visible.  This can be configured "
@@ -1486,79 +1484,79 @@ msgstr ""
 "@code{showall}, como esta:"
 
 #. type: smallexample
-#: orgguide.texi:392
+#: orgguide.texi:393
 #, no-wrap
 msgid "#+STARTUP: content\n"
 msgstr "#+STARTUP: content\n"
 
 #. type: Plain text
-#: orgguide.texi:398
+#: orgguide.texi:399
 msgid "The following commands jump to other headlines in the buffer."
 msgstr "El siguiente comando salta a la siguiente cabecera en el b@'uffer."
 
 #. type: item
-#: orgguide.texi:400
+#: orgguide.texi:401
 #, no-wrap
 msgid "C-c C-n"
 msgstr "C-c C-n"
 
 #. type: table
-#: orgguide.texi:402
+#: orgguide.texi:403
 msgid "Next heading."
 msgstr "Siguiente cabecera."
 
 #. type: item
-#: orgguide.texi:402
+#: orgguide.texi:403
 #, no-wrap
 msgid "C-c C-p"
 msgstr "C-c C-p"
 
 #. type: table
-#: orgguide.texi:404
+#: orgguide.texi:405
 msgid "Previous heading."
 msgstr "Cabecera previa."
 
 #. type: item
-#: orgguide.texi:404
+#: orgguide.texi:405
 #, no-wrap
 msgid "C-c C-f"
 msgstr "C-c C-f"
 
 #. type: table
-#: orgguide.texi:406
+#: orgguide.texi:407
 msgid "Next heading same level."
 msgstr "Siguiente cabecera del mismo nivel."
 
 #. type: item
-#: orgguide.texi:406
+#: orgguide.texi:407
 #, no-wrap
 msgid "C-c C-b"
 msgstr "C-c C-b"
 
 #. type: table
-#: orgguide.texi:408
+#: orgguide.texi:409
 msgid "Previous heading same level."
 msgstr "Cabecera previa del mismo nivel."
 
 #. type: item
-#: orgguide.texi:408
+#: orgguide.texi:409
 #, no-wrap
 msgid "C-c C-u"
 msgstr "C-c C-u"
 
 #. type: table
-#: orgguide.texi:410
+#: orgguide.texi:411
 msgid "Backward to higher level heading."
 msgstr "Retroceder a la cabecera de nivel superior."
 
 #. type: item
-#: orgguide.texi:416 orgguide.texi:514
+#: orgguide.texi:417 orgguide.texi:514
 #, no-wrap
 msgid "M-@key{RET}"
 msgstr "M-@key{RET}"
 
 #. type: table
-#: orgguide.texi:422
+#: orgguide.texi:423
 msgid ""
 "Insert new heading with same level as current.  If the cursor is in a plain "
 "list item, a new item is created (@pxref{Plain lists}).  When this command "
@@ -1576,25 +1574,25 @@ msgstr ""
 "@code{org-M-RET-may-split-line}.}."
 
 #. type: item
-#: orgguide.texi:422 orgguide.texi:517 orgguide.texi:1082
+#: orgguide.texi:423 orgguide.texi:517 orgguide.texi:1082
 #, no-wrap
 msgid "M-S-@key{RET}"
 msgstr "M-S-@key{RET}"
 
 #. type: table
-#: orgguide.texi:424
+#: orgguide.texi:425
 msgid "Insert new TODO entry with same level as current heading."
 msgstr ""
 "Inserta una nueva entrada TODO con el mismo nivel de la cabecera actual."
 
 #. type: item
-#: orgguide.texi:424
+#: orgguide.texi:425
 #, no-wrap
 msgid "@key{TAB} @r{in new, empty entry}"
 msgstr "@key{TAB}"
 
 #. type: table
-#: orgguide.texi:427
+#: orgguide.texi:428
 msgid ""
 "In a new entry with no text yet, @key{TAB} will cycle through reasonable "
 "levels."
@@ -1603,48 +1601,48 @@ msgstr ""
 "c@'{@dotless{i}}clicamente a trav@'es de niveles similares."
 
 #. type: item
-#: orgguide.texi:427
+#: orgguide.texi:428
 #, no-wrap
 msgid "M-@key{left}@r{/}@key{right}"
 msgstr "M-@key{left}@r{/}@key{right}"
 
 #. type: table
-#: orgguide.texi:429
+#: orgguide.texi:430
 msgid "Promote/demote current heading by one level."
 msgstr "Promociona/deval@'ua la cabecera actual en un nivel."
 
 #. type: item
-#: orgguide.texi:429 orgguide.texi:525
+#: orgguide.texi:430 orgguide.texi:525
 #, no-wrap
 msgid "M-S-@key{left}@r{/}@key{right}"
 msgstr "M-S-@key{left}@r{/}@key{right}"
 
 #. type: table
-#: orgguide.texi:431
+#: orgguide.texi:432
 msgid "Promote/demote the current subtree by one level."
 msgstr "Promociona/deval@'ua el sub@'arbol actual en un nivel."
 
 #. type: item
-#: orgguide.texi:431 orgguide.texi:519
+#: orgguide.texi:432 orgguide.texi:519
 #, no-wrap
 msgid "M-S-@key{up}@r{/}@key{down}"
 msgstr "M-S-@key{up}@r{/}@key{down}"
 
 #. type: table
-#: orgguide.texi:434
+#: orgguide.texi:435
 msgid "Move subtree up/down (swap with previous/next subtree of same level)."
 msgstr ""
 "Mueve el sub@'arbol arriba/abajo (intercambia entre anterior/siguiente\n"
 "sub@'arbol del mismo nivel)."
 
 #. type: item
-#: orgguide.texi:434 orgguide.texi:1599 orgguide.texi:1660 orgguide.texi:1993
+#: orgguide.texi:435 orgguide.texi:1598 orgguide.texi:1659 orgguide.texi:1975
 #, no-wrap
 msgid "C-c C-w"
 msgstr "C-c C-w"
 
 #. type: table
-#: orgguide.texi:436
+#: orgguide.texi:437
 msgid ""
 "Refile entry or region to a different location.  @xref{Refile and copy}."
 msgstr ""
@@ -1652,18 +1650,18 @@ msgstr ""
 "diferente. @xref{Rellenar y copiar}."
 
 #. type: item
-#: orgguide.texi:436
+#: orgguide.texi:437
 #, no-wrap
 msgid "C-x n s/w"
 msgstr "C-x n s/w"
 
 #. type: table
-#: orgguide.texi:438
+#: orgguide.texi:439
 msgid "Narrow buffer to current subtree / widen it again"
 msgstr "Limitar la memoria intermedia al @'arbol actual / ocult@'andolo"
 
 #. type: Plain text
-#: orgguide.texi:442
+#: orgguide.texi:443
 msgid ""
 "When there is an active region (Transient Mark mode), promotion and demotion "
 "work on all headlines in the region."
@@ -1678,21 +1676,18 @@ msgid ""
 "trees} for selected information in an outline tree, so that the entire "
 "document is folded as much as possible, but the selected information is made "
 "visible along with the headline structure above it@footnote{See also the "
-"variables @code{org-show-hierarchy-above}, @code{org-show-following-"
-"heading}, @code{org-show-siblings}, and @code{org-show-entry-below} for "
-"detailed control on how much context is shown around each match.}.  Just try "
-"it out and you will see immediately how it works."
+"variable @code{org-show-context-detail} to decide how much context is shown "
+"around each match.}.  Just try it out and you will see immediately how it "
+"works."
 msgstr ""
-"Una caracter@'{@dotless{i}}stica importante de Org-mode es su\n"
-"posibilidad para construir @emph{@'arboles poco densos} para la\n"
-"informaci@'on seleccionada en un @'arbol de outlines,\n"
-"as@'{@dotless{i}} se maneja el documento entero, pero la informaci@'on\n"
-"seleccionada se hace visible con la estructura de cabeceras de\n"
-"encima@footnote{V@'ease adem@'as las variables\n"
-"@code{org-show-hierarchy-above}, @code{org-show-following-heading},\n"
-"@code{org-show-siblings} y @code{org-show-entry-below} para controlar\n"
-"los detalles de c@'omo el contexto se muestra en cada\n"
-"coincidencia.}. Int@'entelo ahora y ver@'a inmediatamente como\n"
+"Una funcionalidad importante de Org mode es la habilidad para\n"
+"construir @emph{@'arboles poco densos} para la informaci@'on\n"
+"seleccionada en un @'arbol de outlines, as@'{@dotless{i}} el documento\n"
+"entero es doblado tanto como sea posible, pero la informaci@'on\n"
+"seleccionada es hecha visible a lo largo de la estructura de cabeceras\n"
+"de debajo.@footnote{Ver tambi@'en la variable\n"
+"@code{org-show-context-detail} para decidir cuanto contexto se muestra\n"
+"con cada acierto.}. Ahora int@'entalo y ver@'a inmediatamente como\n"
 "funciona."
 
 #. type: Plain text
@@ -1819,7 +1814,7 @@ msgid ""
 "      + I really like Miranda Otto.\n"
 "   Important actors in this film are:\n"
 "   - @b{Elijah Wood} :: He plays Frodo\n"
-"   - @b{Sean Austin} :: He plays Sam, Frodo's friend.\n"
+"   - @b{Sean Astin} :: He plays Sam, Frodo's friend.\n"
 msgstr ""
 "** El Se@~nor de los Anillos\n"
 "   Mis escenas favoritas son (en este orden)\n"
@@ -1898,7 +1893,7 @@ msgstr ""
 
 #. type: item
 #: orgguide.texi:527 orgguide.texi:560 orgguide.texi:636 orgguide.texi:1080
-#: orgguide.texi:1156 orgguide.texi:1532 orgguide.texi:1595
+#: orgguide.texi:1156 orgguide.texi:1532 orgguide.texi:1594
 #, no-wrap
 msgid "C-c C-c"
 msgstr "C-c C-c"
@@ -2173,7 +2168,7 @@ msgid "Re-align, move to previous field."
 msgstr "Realinea, moverse al campo anterior."
 
 #. type: key{#1}
-#: orgguide.texi:646 orgguide.texi:1937
+#: orgguide.texi:646 orgguide.texi:1919
 #, no-wrap
 msgid "RET"
 msgstr "RET"
@@ -2323,7 +2318,7 @@ msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Tables.html#Tables, Chapter 3 of "
 "the manual}@* @uref{https://orgmode.org/worg/org-tutorials/tables.php, "
 "Bastien's table tutorial}@* @uref{https://orgmode.org/worg/org-tutorials/org-"
-"spreadsheet-intro.php, Bastien's spreadsheet tutorial}@* @uref{http://"
+"spreadsheet-intro.php, Bastien's spreadsheet tutorial}@* @uref{https://"
 "orgmode.org/worg/org-tutorials/org-plot.php, Eric's plotting tutorial}}"
 msgstr ""
 "@seealso{ @uref{https://orgmode.org/manual/Tables.html#Tables,\n"
@@ -2704,8 +2699,8 @@ msgstr "(no marcado) -> TODO -> DONE -> (no marcado)\\n"
 #. type: table
 #: orgguide.texi:884
 msgid ""
-"The same rotation can also be done ``remotely'' from the timeline and agenda "
-"buffers with the @kbd{t} command key (@pxref{Agenda commands})."
+"The same rotation can also be done ``remotely'' from the agenda buffers with "
+"the @kbd{t} command key (@pxref{Agenda commands})."
 msgstr ""
 "La misma rotaci@'on puede tambi@'en ser hecha ``de manera remota''\n"
 "desde los b@'uffers de agenda y l@'{@dotless{i}}nea de tiempo con la\n"
@@ -2740,7 +2735,7 @@ msgstr ""
 "t@'{@dotless{i}}tulos y subt@'{@dotless{i}}tulos por encima de ellos."
 
 #. type: item
-#: orgguide.texi:891 orgguide.texi:1821
+#: orgguide.texi:891 orgguide.texi:1817
 #, no-wrap
 msgid "C-c a t"
 msgstr "C-c a t"
@@ -3495,7 +3490,7 @@ msgstr ""
 "que no son TODO."
 
 #. type: item
-#: orgguide.texi:1234 orgguide.texi:1839
+#: orgguide.texi:1234 orgguide.texi:1835
 #, no-wrap
 msgid "C-c a m"
 msgstr "C-c a m"
@@ -3510,7 +3505,7 @@ msgstr ""
 "la agenda. @xref{Emparejar marcas y propiedades}."
 
 #. type: item
-#: orgguide.texi:1237 orgguide.texi:1845
+#: orgguide.texi:1237 orgguide.texi:1841
 #, no-wrap
 msgid "C-c a M"
 msgstr "C-c a M"
@@ -3691,13 +3686,16 @@ msgstr ""
 #: orgguide.texi:1316
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Properties-and-Columns."
-"html#Properties-and-Columns, Chapter 7 of the manual}@* @uref{https://orgmode."
-"org/worg/org-tutorials/org-column-view-tutorial.php,Bastien Guerry's column "
-"view tutorial}}"
+"html#Properties-and-Columns, Chapter 7 of the manual}@* @uref{https://"
+"orgmode.org/worg/org-tutorials/org-column-view-tutorial.php,Bastien Guerry's "
+"column view tutorial}}"
 msgstr ""
 "@seealso{\n"
-"@uref{https://orgmode.org/manual/Properties-and-Columns.html#Properties-and-Columns,\n"
-"Cap@'{@dotless{i}}tulo 7 del manual}@* @uref{https://orgmode.org/worg/org-tutorials/org-column-view-tutorial.php,Bastien Guerry's column view tutorial}}"
+"@uref{https://orgmode.org/manual/Properties-and-Columns.html#Properties-and-"
+"Columns,\n"
+"Cap@'{@dotless{i}}tulo 7 del manual}@* @uref{https://orgmode.org/worg/org-"
+"tutorials/org-column-view-tutorial.php,Bastien Guerry's column view "
+"tutorial}}"
 
 #. type: Plain text
 #: orgguide.texi:1323
@@ -3956,7 +3954,7 @@ msgstr ""
 "fecha."
 
 #. type: item
-#: orgguide.texi:1441 orgguide.texi:2006
+#: orgguide.texi:1441 orgguide.texi:1988
 #, no-wrap
 msgid "C-c C-d"
 msgstr "C-c C-d"
@@ -4011,7 +4009,7 @@ msgstr ""
 "clave.}"
 
 #. type: item
-#: orgguide.texi:1467 orgguide.texi:2003
+#: orgguide.texi:1467 orgguide.texi:1985
 #, no-wrap
 msgid "C-c C-s"
 msgstr "C-c C-s"
@@ -4213,7 +4211,8 @@ msgid ""
 "manual/Clocking-work-time.html#Clocking-work-time,the manual}."
 msgstr ""
 "Para detalles acerca de c@'omo personalizar esta vista, ver\n"
-"@uref{https://orgmode.org/manual/Clocking-work-time.html#Clocking-work-time,\n"
+"@uref{https://orgmode.org/manual/Clocking-work-time.html#Clocking-work-"
+"time,\n"
 "el manual}."
 
 #. type: table
@@ -4226,11 +4225,10 @@ msgstr ""
 "l@'{@dotless{i}}nea @code{#+BEGIN} del bloque din@'amico."
 
 #. type: Plain text
-#: orgguide.texi:1540
+#: orgguide.texi:1539
 msgid ""
-"The @kbd{l} key may be used in the timeline (@pxref{Timeline}) and in the "
-"agenda (@pxref{Weekly/daily agenda}) to show which tasks have been worked on "
-"or closed during a day."
+"The @kbd{l} key may be used in the agenda (@pxref{Weekly/daily agenda}) to "
+"show which tasks have been worked on or closed during a day."
 msgstr ""
 "La tecla @kbd{l} puede ser usada en la l@'{@dotless{i}}nea de tiempo\n"
 "(@pxref{L@'{@dotless{i}}nea de tiempo}) y en la agenda (@pxref{Agenda\n"
@@ -4238,7 +4236,7 @@ msgstr ""
 "cerrar@'an durante el d@'{@dotless{i}}a."
 
 #. type: Plain text
-#: orgguide.texi:1547
+#: orgguide.texi:1546
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Dates-and-Times.html#Dates-and-"
 "Times, Chapter 8 of the manual}@* @uref{http://members.optusnet.com.au/"
@@ -4255,7 +4253,7 @@ msgstr ""
 "cronomentrar de Bernt Hansen}}"
 
 #. type: Plain text
-#: orgguide.texi:1556
+#: orgguide.texi:1555
 msgid ""
 "An important part of any organization system is the ability to quickly "
 "capture new ideas and tasks, and to associate reference material with them.  "
@@ -4271,7 +4269,7 @@ msgstr ""
 "archivo deja el sistema compacto y r@'apido."
 
 #. type: Plain text
-#: orgguide.texi:1569
+#: orgguide.texi:1568
 msgid ""
 "Org's lets you store quick notes with little interruption of your work "
 "flow.  You can define templates for new entries and associate them with "
@@ -4282,7 +4280,7 @@ msgstr ""
 "y asociarlos a diferentes objetivos para almacenar notas."
 
 #. type: Plain text
-#: orgguide.texi:1583
+#: orgguide.texi:1582
 msgid ""
 "The following customization sets a default target@footnote{Using capture "
 "templates, you get finer control over capture locations, see @ref{Capture "
@@ -4296,7 +4294,7 @@ msgstr ""
 "cosas."
 
 #. type: example
-#: orgguide.texi:1587
+#: orgguide.texi:1586
 #, no-wrap
 msgid ""
 "(setq org-default-notes-file (concat org-directory \"/notes.org\"))\n"
@@ -4306,13 +4304,13 @@ msgstr ""
 "(define-key global-map \"\\C-cc\" 'org-capture)\n"
 
 #. type: item
-#: orgguide.texi:1593
+#: orgguide.texi:1592
 #, no-wrap
 msgid "C-c c"
 msgstr "C-c c"
 
 #. type: table
-#: orgguide.texi:1595
+#: orgguide.texi:1594
 msgid ""
 "Start a capture process, placing you into a narrowed indirect buffer to edit."
 msgstr ""
@@ -4320,7 +4318,7 @@ msgstr ""
 "indirecto para editar."
 
 #. type: table
-#: orgguide.texi:1599
+#: orgguide.texi:1598
 msgid ""
 "Once you are done entering information into the capture buffer, @kbd{C-c C-"
 "c} will return you to the window configuration before the capture process, "
@@ -4332,25 +4330,25 @@ msgstr ""
 "el trabajo sin distracci@'on."
 
 #. type: table
-#: orgguide.texi:1601
+#: orgguide.texi:1600
 msgid "Finalize by moving the entry to a refile location (see section 9.2)."
 msgstr ""
 "Finaliza moviendo la entrada a una nueva localizaci@'on\n"
 "(ver secci@'on 9.2)."
 
 #. type: item
-#: orgguide.texi:1601
+#: orgguide.texi:1600
 #, no-wrap
 msgid "C-c C-k"
 msgstr "C-c C-k"
 
 #. type: table
-#: orgguide.texi:1603
+#: orgguide.texi:1602
 msgid "Abort the capture process and return to the previous state."
 msgstr "Abortar el proceso de captura y volver al estado previo."
 
 #. type: Plain text
-#: orgguide.texi:1613
+#: orgguide.texi:1612
 msgid ""
 "You can use templates to generate different types of capture notes, and to "
 "store them in different places.  For example, if you would like to store new "
@@ -4364,7 +4362,7 @@ msgstr ""
 "de fechas en @file{journal.org} se podr@'{@dotless{i}}a usar:"
 
 #. type: smallexample
-#: orgguide.texi:1620
+#: orgguide.texi:1619
 #, no-wrap
 msgid ""
 "(setq org-capture-templates\n"
@@ -4380,7 +4378,7 @@ msgstr ""
 "        \"* %?\\nIntroducidas en %U\\n  %i\\n  %a\")))\n"
 
 #. type: Plain text
-#: orgguide.texi:1628
+#: orgguide.texi:1627
 msgid ""
 "In these entries, the first string is the key to reach the template, the "
 "second is a short description.  Then follows the type of the entry and a "
@@ -4396,7 +4394,7 @@ msgstr ""
 "informaci@'on basada en tiempo y contexto."
 
 #. type: Plain text
-#: orgguide.texi:1631
+#: orgguide.texi:1630
 msgid ""
 "When you call @kbd{M-x org-capture}, Org will prompt for a key to select the "
 "template (if you have more than one template) and then prepare the buffer "
@@ -4407,7 +4405,7 @@ msgstr ""
 "entonces se prepara el b@'uffer as@'{@dotless{i}}:"
 
 #. type: smallexample
-#: orgguide.texi:1634
+#: orgguide.texi:1633
 #, no-wrap
 msgid ""
 "* TODO\n"
@@ -4417,7 +4415,7 @@ msgstr ""
 "  [[file:@var{enlace a d@'onde se estaba inicializando la captura}]]\n"
 
 #. type: Plain text
-#: orgguide.texi:1641
+#: orgguide.texi:1640
 msgid ""
 "During expansion of the template, special @kbd{%}-escapes@footnote{If you "
 "need one of these sequences literally, escape the @kbd{%} with a backslash.} "
@@ -4431,7 +4429,7 @@ msgstr ""
 "posibilidades, consulte el manual para m@'as."
 
 #. type: smallexample
-#: orgguide.texi:1646
+#: orgguide.texi:1645
 #, no-wrap
 msgid ""
 "%a          @r{annotation, normally the link created with @code{org-store-link}}\n"
@@ -4445,7 +4443,7 @@ msgstr ""
 "%u, %U      @r{como el de debajo, pero con marcas de tiempo inactivas}\n"
 
 #. type: Plain text
-#: orgguide.texi:1655
+#: orgguide.texi:1654
 msgid ""
 "When reviewing the captured data, you may want to refile or copy some of the "
 "entries into a different list, for example into a project.  Cutting, finding "
@@ -4459,13 +4457,13 @@ msgstr ""
 "se pueden usar los siguientes comandos:"
 
 #. type: item
-#: orgguide.texi:1657
+#: orgguide.texi:1656
 #, no-wrap
 msgid "C-c M-x"
 msgstr "C-c M-x"
 
 #. type: table
-#: orgguide.texi:1660
+#: orgguide.texi:1659
 msgid ""
 "Copy the entry or region at point.  This command behaves like @code{org-"
 "refile}, except that the original note will not be deleted."
@@ -4474,7 +4472,7 @@ msgstr ""
 "@code{org-refile}, excepto que el original no ser@'a borrado."
 
 #. type: table
-#: orgguide.texi:1667
+#: orgguide.texi:1666
 msgid ""
 "Refile the entry or region at point.  This command offers possible locations "
 "for refiling the entry and lets you select one with completion.  The item "
@@ -4493,31 +4491,31 @@ msgstr ""
 "ficheros. Ver la variable @code{org-refile-targets} para detalles."
 
 #. type: item
-#: orgguide.texi:1667
+#: orgguide.texi:1666
 #, no-wrap
 msgid "C-u C-c C-w"
 msgstr "C-u C-c C-w"
 
 #. type: table
-#: orgguide.texi:1669
+#: orgguide.texi:1668
 msgid "Use the refile interface to jump to a heading."
 msgstr "Usa el interfaz de reajuste para saltar a un encabezado."
 
 #. type: item
-#: orgguide.texi:1669
+#: orgguide.texi:1668
 #, no-wrap
 msgid "C-u C-u C-c C-w"
 msgstr "C-u C-u C-c C-w"
 
 #. type: table
-#: orgguide.texi:1671
+#: orgguide.texi:1670
 msgid "Jump to the location where @code{org-refile} last moved a tree to."
 msgstr ""
 "Salta a la localizaci@'on d@'onde el @'ultimo @code{org-refile}\n"
 "se movi@'o a un @'arbol."
 
 #. type: Plain text
-#: orgguide.texi:1682
+#: orgguide.texi:1681
 msgid ""
 "When a project represented by a (sub)tree is finished, you may want to move "
 "the tree out of the way and to stop it from contributing to the agenda.  "
@@ -4533,26 +4531,26 @@ msgstr ""
 "mover un @'arbol de proyecto a otro fichero, el fichero archivo."
 
 #. type: item
-#: orgguide.texi:1684
+#: orgguide.texi:1683
 #, no-wrap
 msgid "C-c C-x C-a"
 msgstr "C-c C-x C-a"
 
 #. type: table
-#: orgguide.texi:1686
+#: orgguide.texi:1685
 msgid "Archive the current entry using @code{org-archive-default-command}."
 msgstr ""
 "Archivar la actual entrada usando el comando especificado en la\n"
 "variable @code{org-archive-default-command}."
 
 #. type: item
-#: orgguide.texi:1686
+#: orgguide.texi:1685
 #, no-wrap
 msgid "C-c C-x C-s@ @r{or short} @ C-c $"
 msgstr "C-c C-x C-s@ @r{o m@'as corto} @ C-c $"
 
 #. type: table
-#: orgguide.texi:1689
+#: orgguide.texi:1688
 msgid ""
 "Archive the subtree starting at the cursor position to the location given by "
 "@code{org-archive-location}."
@@ -4561,7 +4559,7 @@ msgstr ""
 "localizaci@'on dada por @code{org-archive-location}."
 
 #. type: Plain text
-#: orgguide.texi:1697
+#: orgguide.texi:1696
 msgid ""
 "The default archive location is a file in the same directory as the current "
 "file, with the name derived by appending @file{_archive} to the current file "
@@ -4577,18 +4575,18 @@ msgstr ""
 "buffer para la configuraci@'on esta variable, por ejemplo"
 
 #. type: smallexample
-#: orgguide.texi:1700
+#: orgguide.texi:1699
 #, no-wrap
 msgid "#+ARCHIVE: %s_done::\n"
 msgstr "#+ARCHIVE: %s_done::\n"
 
 #. type: Plain text
-#: orgguide.texi:1707
+#: orgguide.texi:1706
 msgid ""
-"@seealso{ @uref{https://orgmode.org/manual/Capture-_002d-Refile-_002d-Archive."
-"html#Capture-_002d-Refile-_002d-Archive, Chapter 9 of the manual}@* "
-"@uref{https://orgmode.org/worg/org-tutorials/org-protocol-custom-handler.php, "
-"Sebastian Rose's tutorial for capturing from a web browser}}@uref{}@*"
+"@seealso{ @uref{https://orgmode.org/manual/Capture-_002d-Refile-_002d-"
+"Archive.html#Capture-_002d-Refile-_002d-Archive, Chapter 9 of the manual}@* "
+"@uref{https://orgmode.org/worg/org-tutorials/org-protocol-custom-handler."
+"php, Sebastian Rose's tutorial for capturing from a web browser}}@uref{}@*"
 msgstr ""
 "@seealso{\n"
 "@uref{https://orgmode.org/manual/Capture-_002d-Refile-_002d-Archive."
@@ -4599,7 +4597,7 @@ msgstr ""
 "Sebastian Rose's tutorial para capturar desde un servidor web}}@uref{}@*"
 
 #. type: Plain text
-#: orgguide.texi:1716
+#: orgguide.texi:1715
 msgid ""
 "Due to the way Org works, TODO items, time-stamped items, and tagged "
 "headlines can be scattered throughout a file or even a number of files.  To "
@@ -4616,7 +4614,7 @@ msgstr ""
 "organizado. Hay vistas varias vistas diferentes, ver debajo."
 
 #. type: Plain text
-#: orgguide.texi:1724
+#: orgguide.texi:1723
 msgid ""
 "The extracted information is displayed in a special @emph{agenda buffer}.  "
 "This buffer is read-only, but provides commands to visit the corresponding "
@@ -4635,7 +4633,7 @@ msgstr ""
 "@ref{Comandos de la agenda}."
 
 #. type: Plain text
-#: orgguide.texi:1739
+#: orgguide.texi:1738
 msgid ""
 "The information to be shown is normally collected from all @emph{agenda "
 "files}, the files listed in the variable @code{org-agenda-files}."
@@ -4645,13 +4643,13 @@ msgstr ""
 "variable @code{org-agenda-files}."
 
 #. type: item
-#: orgguide.texi:1741
+#: orgguide.texi:1740
 #, no-wrap
 msgid "C-c ["
 msgstr "C-c ["
 
 #. type: table
-#: orgguide.texi:1745
+#: orgguide.texi:1744
 msgid ""
 "Add current file to the list of agenda files.  The file is added to the "
 "front of the list.  If it was already in the list, it is moved to the "
@@ -4663,37 +4661,37 @@ msgstr ""
 "a@~nade/mueve al final."
 
 #. type: item
-#: orgguide.texi:1745
+#: orgguide.texi:1744
 #, no-wrap
 msgid "C-c ]"
 msgstr "C-c ]"
 
 #. type: table
-#: orgguide.texi:1747
+#: orgguide.texi:1746
 msgid "Remove current file from the list of agenda files."
 msgstr "Borra el fichero actual desde la lista de ficheros de agenda."
 
 #. type: item
-#: orgguide.texi:1747
+#: orgguide.texi:1746
 #, no-wrap
 msgid "C-,"
 msgstr "C-,"
 
 #. type: table
-#: orgguide.texi:1749
+#: orgguide.texi:1748
 msgid "Cycle through agenda file list, visiting one file after the other."
 msgstr ""
 "Cambia a trav@'es de la lista de ficheros de agenda, visitando un\n"
 "fichero despu@'es del otro."
 
 #. type: section
-#: orgguide.texi:1752
+#: orgguide.texi:1751
 #, no-wrap
 msgid "The agenda dispatcher"
 msgstr "El disparador de la agenda"
 
 #. type: Plain text
-#: orgguide.texi:1757
+#: orgguide.texi:1756
 msgid ""
 "The views are created through a dispatcher, which should be bound to a "
 "global key---for example @kbd{C-c a} (@pxref{Installation}).  After pressing "
@@ -4705,37 +4703,37 @@ msgstr ""
 "necesita una tecla adicional para ejecutar un comando:"
 
 #. type: item
-#: orgguide.texi:1758
+#: orgguide.texi:1757
 #, no-wrap
 msgid "a"
 msgstr "a"
 
 #. type: table
-#: orgguide.texi:1760
+#: orgguide.texi:1759
 msgid "The calendar-like agenda (@pxref{Weekly/daily agenda})."
 msgstr "La agenda como calendario (@pxref{Agenda semanal/diaria})."
 
 #. type: item
-#: orgguide.texi:1760
+#: orgguide.texi:1759
 #, no-wrap
 msgid "t @r{/} T"
 msgstr "t @r{/} T"
 
 #. type: table
-#: orgguide.texi:1762
+#: orgguide.texi:1761
 msgid "A list of all TODO items (@pxref{Global TODO list})."
 msgstr ""
 "Una lista de todos los @'{@dotless{i}}tems TODO (@pxref{Lista global\n"
 "TODO})."
 
 #. type: item
-#: orgguide.texi:1762
+#: orgguide.texi:1761
 #, no-wrap
 msgid "m @r{/} M"
 msgstr "m @r{/} M"
 
 #. type: table
-#: orgguide.texi:1765
+#: orgguide.texi:1764
 msgid ""
 "A list of headlines matching a TAGS expression (@pxref{Matching tags and "
 "properties})."
@@ -4744,26 +4742,13 @@ msgstr ""
 "(@pxref{Emparejar marcas y propiedades})."
 
 #. type: item
-#: orgguide.texi:1765
-#, no-wrap
-msgid "L"
-msgstr "L"
-
-#. type: table
-#: orgguide.texi:1767
-msgid "The timeline view for the current buffer (@pxref{Timeline})."
-msgstr ""
-"La vista de la l@'{@dotless{i}}nea de tiempo para el b@'uffer actual\n"
-"@pxref{L@'{@dotless{i}}nea de tiempo})."
-
-#. type: item
-#: orgguide.texi:1767 orgguide.texi:1967
+#: orgguide.texi:1764 orgguide.texi:1949
 #, no-wrap
 msgid "s"
 msgstr "s"
 
 #. type: table
-#: orgguide.texi:1770
+#: orgguide.texi:1767
 msgid ""
 "A list of entries selected by a boolean expression of keywords and/or "
 "regular expressions that must or must not occur in the entry."
@@ -4773,13 +4758,13 @@ msgstr ""
 "coincidir con la entrada."
 
 #. type: subsection
-#: orgguide.texi:1784
+#: orgguide.texi:1780
 #, no-wrap
 msgid "The weekly/daily agenda"
 msgstr "Agenda semanal/diaria"
 
 #. type: Plain text
-#: orgguide.texi:1788
+#: orgguide.texi:1784
 msgid ""
 "The purpose of the weekly/daily @emph{agenda} is to act like a page of a "
 "paper agenda, showing all the tasks for the current week or day."
@@ -4789,13 +4774,13 @@ msgstr ""
 "semana o d@'{@dotless{i}}a actual."
 
 #. type: item
-#: orgguide.texi:1790
+#: orgguide.texi:1786
 #, no-wrap
 msgid "C-c a a"
 msgstr "C-c a a"
 
 #. type: table
-#: orgguide.texi:1793
+#: orgguide.texi:1789
 msgid ""
 "Compile an agenda for the current week from a list of Org files.  The agenda "
 "shows the entries for each day."
@@ -4804,7 +4789,7 @@ msgstr ""
 "Org. La agenda muestra las entradas para cada d@'{@dotless{i}}a."
 
 #. type: Plain text
-#: orgguide.texi:1798
+#: orgguide.texi:1794
 msgid ""
 "Emacs contains the calendar and diary by Edward M. Reingold.  Org-mode "
 "understands the syntax of the diary and allows you to use diary sexp entries "
@@ -4815,7 +4800,7 @@ msgstr ""
 "las entradas sexp directamente en ficheros Org:"
 
 #. type: smallexample
-#: orgguide.texi:1806
+#: orgguide.texi:1802
 #, no-wrap
 msgid ""
 "* Birthdays and similar stuff\n"
@@ -4838,7 +4823,7 @@ msgstr ""
 "%d a@~nos.\n"
 
 #. type: Plain text
-#: orgguide.texi:1811
+#: orgguide.texi:1807
 msgid ""
 "Org can interact with Emacs appointments notification facility.  To add all "
 "the appointments of your agenda files, use the command @code{org-agenda-to-"
@@ -4850,13 +4835,13 @@ msgstr ""
 "detalles."
 
 #. type: subsection
-#: orgguide.texi:1813
+#: orgguide.texi:1809
 #, no-wrap
 msgid "The global TODO list"
 msgstr "La lista global TODO"
 
 #. type: Plain text
-#: orgguide.texi:1819
+#: orgguide.texi:1815
 msgid ""
 "The global TODO list contains all unfinished TODO items formatted and "
 "collected into a single place.  Remote editing of TODO items lets you can "
@@ -4870,7 +4855,7 @@ msgstr ""
 "TODO est@'an descritos en la @ref{Comandos de la agenda}."
 
 #. type: table
-#: orgguide.texi:1824
+#: orgguide.texi:1820
 msgid ""
 "Show the global TODO list.  This collects the TODO items from all agenda "
 "files (@pxref{Agenda Views}) into a single buffer."
@@ -4880,20 +4865,20 @@ msgstr ""
 "en un @'unico buffer."
 
 #. type: item
-#: orgguide.texi:1824
+#: orgguide.texi:1820
 #, no-wrap
 msgid "C-c a T"
 msgstr "C-c a T"
 
 #. type: table
-#: orgguide.texi:1826
+#: orgguide.texi:1822
 msgid "Like the above, but allows selection of a specific TODO keyword."
 msgstr ""
 "Como abajo, pero permite la selecci@'on de una palabra clave\n"
 "TODO espec@'{@dotless{i}}fica."
 
 #. type: Plain text
-#: orgguide.texi:1837
+#: orgguide.texi:1833
 msgid ""
 "If headlines in the agenda files are marked with @emph{tags} (@pxref{Tags}), "
 "or have properties (@pxref{Properties}), you can select headlines based on "
@@ -4913,7 +4898,7 @@ msgstr ""
 "agenda}."
 
 #. type: table
-#: orgguide.texi:1845
+#: orgguide.texi:1841
 msgid ""
 "Produce a list of all headlines that match a given set of tags.  The command "
 "prompts for a selection criterion, which is a boolean logic expression with "
@@ -4930,20 +4915,20 @@ msgstr ""
 "(@pxref{El disparador de la agenda})."
 
 #. type: table
-#: orgguide.texi:1847
+#: orgguide.texi:1843
 msgid "Like @kbd{C-c a m}, but only select headlines that are also TODO items."
 msgstr ""
 "Como @kbd{C-c a m}, pero solo selecciona cabeceras que son tambi@'en\n"
 "@'{@dotless{i}}tems TODO."
 
 #. type: subsubheading
-#: orgguide.texi:1849
+#: orgguide.texi:1845
 #, no-wrap
 msgid "Match syntax"
 msgstr "Emparejar sintaxis"
 
 #. type: Plain text
-#: orgguide.texi:1859
+#: orgguide.texi:1855
 msgid ""
 "A search string can use Boolean operators @samp{&} for AND and @samp{|} for "
 "OR.  @samp{&} binds more strongly than @samp{|}.  Parentheses are currently "
@@ -4966,13 +4951,13 @@ msgstr ""
 "ejemplos, usando solo etiquetas (@emph{tags})."
 
 #. type: item
-#: orgguide.texi:1861
+#: orgguide.texi:1857
 #, no-wrap
 msgid "+work-boss"
 msgstr "+work-boss"
 
 #. type: table
-#: orgguide.texi:1864
+#: orgguide.texi:1860
 msgid ""
 "Select headlines tagged @samp{:work:}, but discard those also tagged @samp{:"
 "boss:}."
@@ -4982,26 +4967,26 @@ msgstr ""
 "@samp{:jefe:}."
 
 #. type: item
-#: orgguide.texi:1864
+#: orgguide.texi:1860
 #, no-wrap
 msgid "work|laptop"
 msgstr "trabajo|port@'atil"
 
 #. type: table
-#: orgguide.texi:1866
+#: orgguide.texi:1862
 msgid "Selects lines tagged @samp{:work:} or @samp{:laptop:}."
 msgstr ""
 "Selecciona l@'{@dotless{i}}neas etiquetadas como @samp{:trabajo:} o\n"
 "@samp{:port@'atil}."
 
 #. type: item
-#: orgguide.texi:1866
+#: orgguide.texi:1862
 #, no-wrap
 msgid "work|laptop+night"
 msgstr "trabajo|escritorio+noche"
 
 #. type: table
-#: orgguide.texi:1869
+#: orgguide.texi:1865
 msgid ""
 "Like before, but require the @samp{:laptop:} lines to be tagged also @samp{:"
 "night:}."
@@ -5010,7 +4995,7 @@ msgstr ""
 "para ser etiquetado tambi@'en como @samp{:noche:}."
 
 #. type: Plain text
-#: orgguide.texi:1873
+#: orgguide.texi:1869
 msgid ""
 "You may also test for properties at the same time as matching tags, see the "
 "manual for more information."
@@ -5019,40 +5004,8 @@ msgstr ""
 "chequea si coinciden etiquetas (@emph{tags}), ver el manual para m@'as\n"
 "informaci@'on."
 
-#. type: subsection
+#. type: Plain text
 #: orgguide.texi:1875
-#, no-wrap
-msgid "Timeline for a single file"
-msgstr "L@'{@dotless{i}}nea de tiempo para un simple archivo"
-
-#. type: Plain text
-#: orgguide.texi:1880
-msgid ""
-"The timeline summarizes all time-stamped items from a single Org mode file "
-"in a @emph{time-sorted view}.  The main purpose of this command is to give "
-"an overview over events in a project."
-msgstr ""
-"La l@'{@dotless{i}}nea de tiempo resume todos los @'{@dotless{i}}tems\n"
-"de marca de tiempo desde un simple fichero Org mode en una @emph{vista\n"
-"de tiempo ordenada}. El prop@'osito principal de este comando es dar\n"
-"una vista general a trav@'es de eventos en un proyecto."
-
-#. type: item
-#: orgguide.texi:1882
-#, no-wrap
-msgid "C-c a L"
-msgstr "C-c a L"
-
-#. type: table
-#: orgguide.texi:1886
-msgid ""
-"Show a time-sorted view of the Org file, with all time-stamped items.  When "
-"called with a @kbd{C-u} prefix, all unfinished TODO entries (scheduled or "
-"not) are also listed under the current date."
-msgstr "emparejando"
-
-#. type: Plain text
-#: orgguide.texi:1893
 msgid ""
 "This agenda view is a general text search facility for Org mode entries.  It "
 "is particularly useful to find notes."
@@ -5061,13 +5014,13 @@ msgstr ""
 "para entradas Org mode. Eso es particularmente @'util para encontrar notas."
 
 #. type: item
-#: orgguide.texi:1895
+#: orgguide.texi:1877
 #, no-wrap
 msgid "C-c a s"
 msgstr "C-c a s"
 
 #. type: table
-#: orgguide.texi:1898
+#: orgguide.texi:1880
 msgid ""
 "This is a special search that lets you select entries by matching a "
 "substring or specific words using a boolean logic."
@@ -5077,7 +5030,7 @@ msgstr ""
 "l@'ogica booleana."
 
 #. type: Plain text
-#: orgguide.texi:1907
+#: orgguide.texi:1889
 msgid ""
 "For example, the search string @samp{computer equipment} will find entries "
 "that contain @samp{computer equipment} as a substring.  Search view can also "
@@ -5098,7 +5051,7 @@ msgstr ""
 "@code{8.11[bg]}, que significa excluir tanto 8.11b y 8.11g."
 
 #. type: Plain text
-#: orgguide.texi:1910
+#: orgguide.texi:1892
 msgid ""
 "Note that in addition to the agenda files, this command will also search the "
 "files listed in @code{org-agenda-text-search-extra-files}."
@@ -5107,13 +5060,13 @@ msgstr ""
 "buscar@'a los ficheros listados en @code{org-agenda-text-search-extra-files}."
 
 #. type: section
-#: orgguide.texi:1912
+#: orgguide.texi:1894
 #, no-wrap
 msgid "Commands in the agenda buffer"
 msgstr "Comandos en el b@'uffer de agenda"
 
 #. type: Plain text
-#: orgguide.texi:1919
+#: orgguide.texi:1901
 msgid ""
 "Entries in the agenda buffer are linked back to the Org file or diary file "
 "where they originate.  Commands are provided to show and jump to the "
@@ -5129,29 +5082,29 @@ msgstr ""
 "explora el men@'u de la @code{Agenda} y el manual para una lista completa."
 
 #. type: table
-#: orgguide.texi:1922
+#: orgguide.texi:1904
 msgid "@tsubheading{Motion}"
 msgstr "@tsubheading{Movimiento}"
 
 #. type: item
-#: orgguide.texi:1922
+#: orgguide.texi:1904
 #, no-wrap
 msgid "n"
 msgstr "n"
 
 #. type: table
-#: orgguide.texi:1924
+#: orgguide.texi:1906
 msgid "Next line (same as @key{up} and @kbd{C-p})."
 msgstr "Siguiente l@'{@dotless{i}}nea (igual que @key{arriba} y @kbd{C-p})."
 
 #. type: item
-#: orgguide.texi:1924
+#: orgguide.texi:1906
 #, no-wrap
 msgid "p"
 msgstr "p"
 
 #. type: table
-#: orgguide.texi:1927
+#: orgguide.texi:1909
 msgid ""
 "Previous line (same as @key{down} and @kbd{C-n}).  @tsubheading{View/Go to "
 "Org file}"
@@ -5160,19 +5113,19 @@ msgstr ""
 "@tsubheading{Vista/Ir al fichero Org}"
 
 #. type: item
-#: orgguide.texi:1927
+#: orgguide.texi:1909
 #, no-wrap
 msgid "mouse-3"
 msgstr "mouse-3"
 
 #. type: key{#1}
-#: orgguide.texi:1928
+#: orgguide.texi:1910
 #, no-wrap
 msgid "SPC"
 msgstr "SPC"
 
 #. type: table
-#: orgguide.texi:1933
+#: orgguide.texi:1915
 msgid ""
 "Display the original location of the item in another window.  With prefix "
 "arg, make sure that the entire entry is made visible in the outline, not "
@@ -5183,7 +5136,7 @@ msgstr ""
 "hace visible en el outline y, no solo en la cabecera."
 
 #. type: table
-#: orgguide.texi:1937
+#: orgguide.texi:1919
 msgid ""
 "Go to the original location of the item in another window.  Under Emacs 22, "
 "@kbd{mouse-1} will also work for this."
@@ -5192,47 +5145,47 @@ msgstr ""
 "ventana. Bajo Emacs 22 @kbd{mouse-1} tambi@'en funciona para esto."
 
 #. type: table
-#: orgguide.texi:1940
+#: orgguide.texi:1922
 msgid "Go to the original location of the item and delete other windows."
 msgstr ""
 "Ir a la localizaci@'on original del @'{@dotless{i}}tem y borra otras "
 "ventanas."
 
 #. type: table
-#: orgguide.texi:1942
+#: orgguide.texi:1924
 msgid "@tsubheading{Change display}"
 msgstr "@tsubheading{Cambiar la visualizaci@'on}"
 
 #. type: item
-#: orgguide.texi:1942
+#: orgguide.texi:1924
 #, no-wrap
 msgid "o"
 msgstr "o"
 
 #. type: table
-#: orgguide.texi:1945
+#: orgguide.texi:1927
 msgid "Delete other windows."
 msgstr "Borra otras ventanas."
 
 #. type: item
-#: orgguide.texi:1945
+#: orgguide.texi:1927
 #, no-wrap
 msgid "d @r{/} w"
 msgstr "d @r{/} w"
 
 #. type: table
-#: orgguide.texi:1948
+#: orgguide.texi:1930
 msgid "Switch to day/week view."
 msgstr "Cambiar a la vista de d@'{@dotless{i}}a/semana."
 
 #. type: item
-#: orgguide.texi:1948
+#: orgguide.texi:1930
 #, no-wrap
 msgid "f @r{and} b"
 msgstr "f @r{y} b"
 
 #. type: table
-#: orgguide.texi:1953
+#: orgguide.texi:1935
 msgid ""
 "Go forward/backward in time to display the following @code{org-agenda-"
 "current-span} days.  For example, if the display covers a week, switch to "
@@ -5244,35 +5197,35 @@ msgstr ""
 "semana."
 
 #. type: item
-#: orgguide.texi:1953
+#: orgguide.texi:1935
 #, no-wrap
 msgid "."
 msgstr "."
 
 #. type: table
-#: orgguide.texi:1956
+#: orgguide.texi:1938
 msgid "Go to today."
 msgstr "Ir a hoy."
 
 #. type: item
-#: orgguide.texi:1956
+#: orgguide.texi:1938
 #, no-wrap
 msgid "j"
 msgstr "j"
 
 #. type: table
-#: orgguide.texi:1959
+#: orgguide.texi:1941
 msgid "Prompt for a date and go there."
 msgstr "Pregunta por una fecha y va all@'{@dotless{i}}."
 
 #. type: item
-#: orgguide.texi:1959
+#: orgguide.texi:1941
 #, no-wrap
 msgid "v l @ @r{or short} @ l"
 msgstr "v l @ @r{u ordena} @ l"
 
 #. type: table
-#: orgguide.texi:1965
+#: orgguide.texi:1947
 msgid ""
 "Toggle Logbook mode.  In Logbook mode, entries that were marked DONE while "
 "logging was on (variable @code{org-log-done}) are shown in the agenda, as "
@@ -5287,18 +5240,18 @@ msgstr ""
 "estado."
 
 #. type: item
-#: orgguide.texi:1965
+#: orgguide.texi:1947
 #, no-wrap
 msgid "r @r{or} g"
 msgstr "r @r{o} g"
 
 #. type: table
-#: orgguide.texi:1967
+#: orgguide.texi:1949
 msgid "Recreate the agenda buffer, to reflect the changes."
 msgstr "Recrear el b@'uffer de agenda, para reflejar los cambios."
 
 #. type: table
-#: orgguide.texi:1970
+#: orgguide.texi:1952
 msgid ""
 "Save all Org buffers in the current Emacs session, and also the locations of "
 "IDs."
@@ -5307,18 +5260,18 @@ msgstr ""
 "las localizaciones de IDs."
 
 #. type: table
-#: orgguide.texi:1972
+#: orgguide.texi:1954
 msgid "@tsubheading{Secondary filtering and query editing}"
 msgstr "@tsubheading{Filtro secundario y buscar la edici@'on}"
 
 #. type: item
-#: orgguide.texi:1973
+#: orgguide.texi:1955
 #, no-wrap
 msgid "/"
 msgstr "/"
 
 #. type: table
-#: orgguide.texi:1976
+#: orgguide.texi:1958
 msgid ""
 "Filter the current agenda view with respect to a tag.  You are prompted for "
 "a letter to select a tag.  Press @samp{-} first to select against the tag."
@@ -5328,54 +5281,54 @@ msgstr ""
 "@samp{-} primero para seleccionar la etiqueta."
 
 #. type: item
-#: orgguide.texi:1977
+#: orgguide.texi:1959
 #, no-wrap
 msgid "\\"
 msgstr "\\"
 
 #. type: table
-#: orgguide.texi:1979
+#: orgguide.texi:1961
 msgid "Narrow the current agenda filter by an additional condition."
 msgstr "Minimiza el filtro de la agenda actual por una condici@'on adicional."
 
 #. type: table
-#: orgguide.texi:1981
+#: orgguide.texi:1963
 msgid "@tsubheading{Remote editing (see the manual for many more commands)}"
 msgstr ""
 "@tsubheading{Edici@'on remota (ver el manual para muchos m@'as comandos)}"
 
 #. type: item
-#: orgguide.texi:1982
+#: orgguide.texi:1964
 #, no-wrap
 msgid "0--9"
 msgstr "0--9"
 
 #. type: table
-#: orgguide.texi:1985
+#: orgguide.texi:1967
 msgid "Digit argument."
 msgstr "Argumento d@'{@dotless{i}}gito."
 
 #. type: item
-#: orgguide.texi:1985
+#: orgguide.texi:1967
 #, no-wrap
 msgid "t"
 msgstr "t"
 
 #. type: table
-#: orgguide.texi:1989
+#: orgguide.texi:1971
 msgid "Change the TODO state of the item, in the agenda and in the org file."
 msgstr ""
 "Cambia el estado TODO del @'{@dotless{i}}tem, en la agenda en el\n"
 "fichero org."
 
 #. type: item
-#: orgguide.texi:1989
+#: orgguide.texi:1971
 #, no-wrap
 msgid "C-k"
 msgstr "C-k"
 
 #. type: table
-#: orgguide.texi:1993
+#: orgguide.texi:1975
 msgid ""
 "Delete the current agenda item along with the entire subtree belonging to it "
 "in the original Org file."
@@ -5384,18 +5337,18 @@ msgstr ""
 "sub@'arbol perteneciente a ello en el fichero Org original. "
 
 #. type: table
-#: orgguide.texi:1996
+#: orgguide.texi:1978
 msgid "Refile the entry at point."
 msgstr "Rellena la entrada a punto."
 
 #. type: item
-#: orgguide.texi:1996
+#: orgguide.texi:1978
 #, no-wrap
 msgid "C-c C-x C-a @ @r{or short} @ a"
 msgstr "C-c C-x C-a @ @r{u ordena} @ a"
 
 #. type: table
-#: orgguide.texi:2000
+#: orgguide.texi:1982
 msgid ""
 "Archive the subtree corresponding to the entry at point using the default "
 "archiving command set in @code{org-archive-default-command}."
@@ -5404,78 +5357,78 @@ msgstr ""
 "comando de archivaci@'on establecido en @code{org-archive-default-command}."
 
 #. type: item
-#: orgguide.texi:2000
+#: orgguide.texi:1982
 #, no-wrap
 msgid "C-c C-x C-s @ @r{or short} @ $"
 msgstr "C-c C-x C-s @ @r{u ordena} @ $"
 
 #. type: table
-#: orgguide.texi:2003
+#: orgguide.texi:1985
 msgid "Archive the subtree corresponding to the current headline."
 msgstr "Archiva el sub@'arbol correspondiente a la actual cabecera."
 
 #. type: table
-#: orgguide.texi:2006
+#: orgguide.texi:1988
 msgid "Schedule this item, with prefix arg remove the scheduling timestamp"
 msgstr ""
 "Planifica este @'{@dotless{i}}tem, con argumento prefijo borra la\n"
 "marca de tiempo planificada."
 
 #. type: table
-#: orgguide.texi:2009
+#: orgguide.texi:1991
 msgid "Set a deadline for this item, with prefix arg remove the deadline."
 msgstr ""
 "Asigna una fecha l@'{@dotless{i}}mite para este @'{@dotless{i}}tem,\n"
 "con el argumento prefijo elimina la fecha l@'{@dotless{i}}mite."
 
 #. type: item
-#: orgguide.texi:2009
+#: orgguide.texi:1991
 #, no-wrap
 msgid "S-@key{right} @r{and} S-@key{left}"
 msgstr "S-@key{derecha}@r{/}@key{izquierda}"
 
 #. type: table
-#: orgguide.texi:2012
+#: orgguide.texi:1994
 msgid "Change the timestamp associated with the current line by one day."
 msgstr ""
 "Cambia la marca de tiempo asociada con la l@'{@dotless{i}}nea actual\n"
 "por un d@'{@dotless{i}}a."
 
 #. type: item
-#: orgguide.texi:2012
+#: orgguide.texi:1994
 #, no-wrap
 msgid "I"
 msgstr "I"
 
 #. type: table
-#: orgguide.texi:2015
+#: orgguide.texi:1997
 msgid "Start the clock on the current item."
 msgstr "Empieza el cron@'ometro en el @'{@dotless{i}}tem actual."
 
 #. type: item
-#: orgguide.texi:2015
+#: orgguide.texi:1997
 #, no-wrap
 msgid "O / X"
 msgstr "O / X"
 
 #. type: table
-#: orgguide.texi:2017
+#: orgguide.texi:1999
 msgid "Stop/cancel the previously started clock."
 msgstr "Para/cancela el reloj previamente iniciado."
 
 #. type: item
-#: orgguide.texi:2018
+#: orgguide.texi:2000
 #, no-wrap
 msgid "J"
 msgstr "J"
 
 #. type: table
-#: orgguide.texi:2020
+#: orgguide.texi:2002
 msgid "Jump to the running clock in another window."
 msgstr "Salta al reloj en ejecuci@'on a otra ventana."
 
 #. type: Plain text
-#: orgguide.texi:2034
+#: orgguide.texi:2016
 msgid ""
 "The main application of custom searches is the definition of keyboard "
 "shortcuts for frequently used searches, either creating an agenda buffer, or "
@@ -5496,7 +5449,7 @@ msgstr ""
 "siguiente ejemplo contiene todos los tipos de b@'usqueda v@'alida:"
 
 #. type: group
-#: orgguide.texi:2041
+#: orgguide.texi:2023
 #, no-wrap
 msgid ""
 "(setq org-agenda-custom-commands\n"
@@ -5510,7 +5463,7 @@ msgstr ""
 "        (\"v\" tags-todo \"+jefe-urgente\")))\n"
 
 #. type: Plain text
-#: orgguide.texi:2050
+#: orgguide.texi:2032
 msgid ""
 "The initial string in each entry defines the keys you have to press after "
 "the dispatcher command @kbd{C-c a} in order to access the command.  Usually "
@@ -5526,13 +5479,13 @@ msgstr ""
 "de arriba adem@'as definir@'a:"
 
 #. type: item
-#: orgguide.texi:2052
+#: orgguide.texi:2034
 #, no-wrap
 msgid "C-c a w"
 msgstr "C-c a w"
 
 #. type: table
-#: orgguide.texi:2055
+#: orgguide.texi:2037
 msgid ""
 "as a global search for TODO entries with @samp{WAITING} as the TODO keyword"
 msgstr ""
@@ -5540,13 +5493,13 @@ msgstr ""
 "como la palabra clave TODO"
 
 #. type: item
-#: orgguide.texi:2055
+#: orgguide.texi:2037
 #, no-wrap
 msgid "C-c a u"
 msgstr "C-c a u"
 
 #. type: table
-#: orgguide.texi:2058
+#: orgguide.texi:2040
 msgid ""
 "as a global tags search for headlines marked @samp{:boss:} but not @samp{:"
 "urgent:}"
@@ -5555,13 +5508,13 @@ msgstr ""
 "cabecera @samp{:jefe:} pero no @samp{:urgente:}"
 
 #. type: item
-#: orgguide.texi:2058
+#: orgguide.texi:2040
 #, no-wrap
 msgid "C-c a v"
 msgstr "C-c a v"
 
 #. type: table
-#: orgguide.texi:2061
+#: orgguide.texi:2043
 msgid ""
 "as the same search as @kbd{C-c a u}, but limiting the search to headlines "
 "that are also TODO items"
@@ -5571,7 +5524,7 @@ msgstr ""
 "@'{@dotless{i}}tems TODO"
 
 #. type: Plain text
-#: orgguide.texi:2070
+#: orgguide.texi:2052
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Agenda-Views.html#Agenda-Views, "
 "Chapter 10 of the manual}@* @uref{https://orgmode.org/worg/org-tutorials/org-"
@@ -5582,7 +5535,8 @@ msgstr ""
 "@seealso{\n"
 "@uref{https://orgmode.org/manual/Agenda-Views.html#Agenda-Views,\n"
 "Cap@'{@dotless{i}}tulo 10 del manual}@*\n"
-"@uref{https://orgmode.org/worg/org-tutorials/org-custom-agenda-commands.php,\n"
+"@uref{https://orgmode.org/worg/org-tutorials/org-custom-agenda-commands."
+"php,\n"
 "El tutorial de Mat Lundin acerca de comandos personalizados de\n"
 "agenda}@*\n"
 "@uref{http://www.newartisans.com/2007/08/using-org-mode-as-a-day-planner."
@@ -5590,7 +5544,7 @@ msgstr ""
 "Configuraci@'on de John Wiegley}}"
 
 #. type: Plain text
-#: orgguide.texi:2079
+#: orgguide.texi:2061
 msgid ""
 "When exporting Org-mode documents, the exporter tries to reflect the "
 "structure of the document as accurately as possible in the backend.  Since "
@@ -5606,20 +5560,20 @@ msgstr ""
 "secci@'on resume las reglas de marcado usados en un b@'uffer Org-mode."
 
 #. type: Plain text
-#: orgguide.texi:2105
+#: orgguide.texi:2087
 msgid "The title of the exported document is taken from the special line"
 msgstr ""
 "El t@'{@dotless{i}}tulo del documento exportado es tomado desde la\n"
 "l@'{@dotless{i}}nea especial"
 
 #. type: smallexample
-#: orgguide.texi:2108
+#: orgguide.texi:2090
 #, no-wrap
 msgid "#+TITLE: This is the title of the document\n"
 msgstr "#+TITLE: Este es el t@'{@dotless{i}}tulo del documento\n"
 
 #. type: Plain text
-#: orgguide.texi:2120
+#: orgguide.texi:2102
 msgid ""
 "The outline structure of the document as described in @ref{Document "
 "Structure}, forms the basis for defining sections of the exported document.  "
@@ -5641,13 +5595,13 @@ msgstr ""
 "l@'{@dotless{i}}nea."
 
 #. type: smallexample
-#: orgguide.texi:2123
+#: orgguide.texi:2105
 #, no-wrap
 msgid "#+OPTIONS: H:4\n"
 msgstr "#+OPTIONS: H:4\n"
 
 #. type: Plain text
-#: orgguide.texi:2130
+#: orgguide.texi:2112
 msgid ""
 "The table of contents is normally inserted directly before the first "
 "headline of the file."
@@ -5656,7 +5610,7 @@ msgstr ""
 "antes de la primera l@'{@dotless{i}}nea de cabecera del fichero."
 
 #. type: smallexample
-#: orgguide.texi:2134
+#: orgguide.texi:2116
 #, no-wrap
 msgid ""
 "#+OPTIONS: toc:2          (only to two levels in TOC)\n"
@@ -5666,13 +5620,13 @@ msgstr ""
 "#+OPTIONS: toc:nil        (no TOC en todo)\n"
 
 #. type: subheading
-#: orgguide.texi:2137
+#: orgguide.texi:2119
 #, no-wrap
 msgid "Paragraphs, line breaks, and quoting"
 msgstr "P@'arrafos, l@'{@dotless{i}}neas rotas y citaci@'on"
 
 #. type: Plain text
-#: orgguide.texi:2141
+#: orgguide.texi:2123
 msgid ""
 "Paragraphs are separated by at least one empty line.  If you need to enforce "
 "a line break within a paragraph, use @samp{\\\\} at the end of a line."
@@ -5683,7 +5637,7 @@ msgstr ""
 "l@'{@dotless{i}}nea."
 
 #. type: Plain text
-#: orgguide.texi:2144
+#: orgguide.texi:2126
 msgid ""
 "To keep the line breaks in a region, but otherwise use normal formatting, "
 "you can use this construct, which can also be used to format poetry."
@@ -5693,7 +5647,7 @@ msgstr ""
 "usado para el formato poes@'{@dotless{i}}a."
 
 #. type: smallexample
-#: orgguide.texi:2150
+#: orgguide.texi:2132
 #, no-wrap
 msgid ""
 "#+BEGIN_VERSE\n"
@@ -5708,7 +5662,7 @@ msgstr ""
 " Hacia el Emacs llama el deber\n"
 
 #. type: smallexample
-#: orgguide.texi:2153
+#: orgguide.texi:2135
 #, no-wrap
 msgid ""
 "     -- AlexSchroeder\n"
@@ -5718,7 +5672,7 @@ msgstr ""
 "#+END_VERSE\n"
 
 #. type: Plain text
-#: orgguide.texi:2158
+#: orgguide.texi:2140
 msgid ""
 "When quoting a passage from another document, it is customary to format this "
 "as a paragraph that is indented on both the left and the right margin.  You "
@@ -5730,7 +5684,7 @@ msgstr ""
 "documentos Org-mode como este:"
 
 #. type: smallexample
-#: orgguide.texi:2164
+#: orgguide.texi:2146
 #, no-wrap
 msgid ""
 "#+BEGIN_QUOTE\n"
@@ -5744,14 +5698,14 @@ msgstr ""
 "#+END_QUOTE\n"
 
 #. type: Plain text
-#: orgguide.texi:2167
+#: orgguide.texi:2149
 msgid "If you would like to center some text, do it like this:"
 msgstr ""
 "Si se quisiera centrar alg@'un texto, se puede hacer\n"
 "as@'{@dotless{i}}:"
 
 #. type: smallexample
-#: orgguide.texi:2172
+#: orgguide.texi:2154
 #, no-wrap
 msgid ""
 "#+BEGIN_CENTER\n"
@@ -5765,7 +5719,7 @@ msgstr ""
 "#+END_CENTER\n"
 
 #. type: Plain text
-#: orgguide.texi:2182
+#: orgguide.texi:2164
 msgid ""
 "You can make words @b{*bold*}, @i{/italic/}, _underlined_, @code{=code=} and "
 "@code{~verbatim~}, and, if you must, @samp{+strike-through+}.  Text in the "
@@ -5782,7 +5736,7 @@ msgstr ""
 "l@'{@dotless{i}}nea que consista de solo dashes, y al menos 5 de ellos."
 
 #. type: Plain text
-#: orgguide.texi:2188
+#: orgguide.texi:2170
 msgid ""
 "Lines starting with zero or more whitespace characters followed by @samp{#} "
 "and a whitespace are treated as comments and, as such, are not exported."
@@ -5792,7 +5746,7 @@ msgstr ""
 "tratan como comentarios y, como tales, no se exportan."
 
 #. type: Plain text
-#: orgguide.texi:2191
+#: orgguide.texi:2173
 msgid ""
 "Likewise, regions surrounded by @samp{#+BEGIN_COMMENT} ... @samp{#"
 "+END_COMMENT} are not exported."
@@ -5801,7 +5755,7 @@ msgstr ""
 "... @samp{#+END_COMMENT} no se exportan."
 
 #. type: Plain text
-#: orgguide.texi:2195
+#: orgguide.texi:2177
 msgid ""
 "Finally, a @samp{COMMENT} keyword at the beginning of an entry, but after "
 "any other keyword or priority cookie, comments out the entire subtree.  The "
@@ -5813,24 +5767,24 @@ msgstr ""
 "debajo ayuda cambiando el estado del comentario de una cabecera."
 
 #. type: item
-#: orgguide.texi:2197
+#: orgguide.texi:2179
 #, no-wrap
 msgid "C-c ;"
 msgstr "C-c ;"
 
 #. type: table
-#: orgguide.texi:2199
+#: orgguide.texi:2181
 msgid "Toggle the COMMENT keyword at the beginning of an entry."
 msgstr "Cambia la palabra clave COMMENT al principio de una entrada."
 
 #. type: section
-#: orgguide.texi:2202
+#: orgguide.texi:2184
 #, no-wrap
 msgid "Images and Tables"
 msgstr "Im@'agenes y Tablas"
 
 #. type: Plain text
-#: orgguide.texi:2208
+#: orgguide.texi:2190
 msgid ""
 "For Org mode tables, the lines before the first horizontal separator line "
 "will become table header lines.  You can use the following lines somewhere "
@@ -5845,7 +5799,7 @@ msgstr ""
 "puede referir para el objeto con @code{\\\\ref@{tab:basic-data@}}:"
 
 #. type: smallexample
-#: orgguide.texi:2214
+#: orgguide.texi:2196
 #, no-wrap
 msgid ""
 "#+CAPTION: This is the caption for the next table (or link)\n"
@@ -5859,7 +5813,7 @@ msgstr ""
 "   |-----|----|\n"
 
 #. type: Plain text
-#: orgguide.texi:2221
+#: orgguide.texi:2203
 msgid ""
 "Some backends allow you to directly include images into the exported "
 "document.  Org does this, if a link to an image files does not have a "
@@ -5876,7 +5830,7 @@ msgstr ""
 "s@'{@dotless{i}} misma precedida con:"
 
 #. type: smallexample
-#: orgguide.texi:2226
+#: orgguide.texi:2208
 #, no-wrap
 msgid ""
 "#+CAPTION: This is the caption for the next figure link (or table)\n"
@@ -5888,7 +5842,7 @@ msgstr ""
 "[[./img/a.jpg]]\n"
 
 #. type: Plain text
-#: orgguide.texi:2231
+#: orgguide.texi:2213
 msgid ""
 "The same caption mechanism applies to other structures than images and "
 "tables (e.g., @LaTeX{} equations, source code blocks), provided the chosen "
@@ -5900,7 +5854,7 @@ msgstr ""
 "marcado que los soporta."
 
 #. type: Plain text
-#: orgguide.texi:2238
+#: orgguide.texi:2220
 msgid ""
 "You can include literal examples that should not be subjected to markup.  "
 "Such examples will be typeset in monospace, so this is well suited for "
@@ -5912,7 +5866,7 @@ msgstr ""
 "ejemplos similares."
 
 #. type: smallexample
-#: orgguide.texi:2243
+#: orgguide.texi:2225
 #, no-wrap
 msgid ""
 "#+BEGIN_EXAMPLE\n"
@@ -5924,7 +5878,7 @@ msgstr ""
 "#+END_EXAMPLE\n"
 
 #. type: Plain text
-#: orgguide.texi:2248
+#: orgguide.texi:2230
 msgid ""
 "For simplicity when using small examples, you can also start the example "
 "lines with a colon followed by a space.  There may also be additional "
@@ -5936,7 +5890,7 @@ msgstr ""
 "los dos puntos:"
 
 #. type: smallexample
-#: orgguide.texi:2252
+#: orgguide.texi:2234
 #, no-wrap
 msgid ""
 "Here is an example\n"
@@ -5946,7 +5900,7 @@ msgstr ""
 "    : Alg@'un ejemplo desde un fichero de texto."
 
 #. type: Plain text
-#: orgguide.texi:2257
+#: orgguide.texi:2239
 msgid ""
 "For source code from a programming language, or any other text that can be "
 "marked up by font-lock in Emacs, you can ask for it to look like the "
@@ -5957,7 +5911,7 @@ msgstr ""
 "puede preguntar para ello para mirar como el b@'uffer de Emacs fontificado."
 
 #. type: smallexample
-#: orgguide.texi:2264
+#: orgguide.texi:2246
 #, no-wrap
 msgid ""
 "#+BEGIN_SRC emacs-lisp\n"
@@ -5973,7 +5927,7 @@ msgstr ""
 "#+END_SRC\n"
 
 #. type: Plain text
-#: orgguide.texi:2268
+#: orgguide.texi:2250
 msgid ""
 "To edit the example in a special buffer supporting this language, use @kbd{C-"
 "c '} to both enter and leave the editing buffer."
@@ -5982,7 +5936,7 @@ msgstr ""
 "lenguaje, usa @kbd{C-c '} para ambos entrar y dejar el b@'uffer de edici@'on."
 
 #. type: Plain text
-#: orgguide.texi:2274
+#: orgguide.texi:2256
 msgid ""
 "During export, you can include the content of another file.  For example, to "
 "include your @file{.emacs} file, you could use:"
@@ -5992,13 +5946,13 @@ msgstr ""
 "podr@'{@dotless{i}}a usar:"
 
 #. type: smallexample
-#: orgguide.texi:2277
+#: orgguide.texi:2259
 #, no-wrap
 msgid "#+INCLUDE: \"~/.emacs\" src emacs-lisp\n"
 msgstr "#+INCLUDE: \"~/.emacs\" src emacs-lisp\n"
 
 #. type: Plain text
-#: orgguide.texi:2284
+#: orgguide.texi:2266
 msgid ""
 "The optional second and third parameter are the markup (i.e., @samp{example} "
 "or @samp{src}), and, if the markup is @samp{src}, the language for "
@@ -6014,18 +5968,18 @@ msgstr ""
 "as@'{@dotless{i}}:"
 
 #. type: smallexample
-#: orgguide.texi:2286
+#: orgguide.texi:2268
 #, no-wrap
 msgid "#+INCLUDE: \"./otherfile.org::#my_custom_id\" :only-contents t\n"
 msgstr "#+INCLUDE: \"./otherfile.org::#my_custom_id\" :only-contents t\n"
 
 #. type: Plain text
-#: orgguide.texi:2289
+#: orgguide.texi:2271
 msgid "@kbd{C-c '} will visit the included file."
 msgstr "@kbd{C-c '} visitar@'a el fichero incluido."
 
 #. type: Plain text
-#: orgguide.texi:2297
+#: orgguide.texi:2279
 msgid ""
 "For scientific notes which need to be able to contain mathematical symbols "
 "and the occasional formula, Org-mode supports embedding @LaTeX{} code into "
@@ -6040,7 +5994,7 @@ msgstr ""
 "@LaTeX{} completos."
 
 #. type: smallexample
-#: orgguide.texi:2303
+#: orgguide.texi:2285
 #, no-wrap
 msgid ""
 "Angles are written as Greek letters \\alpha, \\beta and \\gamma.  The mass if\n"
@@ -6055,7 +6009,7 @@ msgstr ""
 "soluci@'on debe ser $a=+\\sqrt@{2@}$ o $a=-\\sqrt@{2@}$."
 
 #. type: smallexample
-#: orgguide.texi:2307
+#: orgguide.texi:2289
 #, no-wrap
 msgid ""
 "\\begin@{equation@}\n"
@@ -6067,7 +6021,7 @@ msgstr ""
 "\\end@{equation@}\n"
 
 #. type: Plain text
-#: orgguide.texi:2312
+#: orgguide.texi:2294
 msgid ""
 "With @uref{https://orgmode.org/manual/LaTeX-fragments.html#LaTeX-fragments,"
 "special setup}, @LaTeX{} snippets will be included as images when exporting "
@@ -6078,7 +6032,7 @@ msgstr ""
 "im@'agenes cuando se exporta a HTML."
 
 #. type: Plain text
-#: orgguide.texi:2315
+#: orgguide.texi:2297
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Markup.html#Markup, Chapter 11 of "
 "the manual}}"
@@ -6087,7 +6041,7 @@ msgstr ""
 "Cap@'{@dotless{i}}tulo 11 del manual}}"
 
 #. type: Plain text
-#: orgguide.texi:2324
+#: orgguide.texi:2306
 msgid ""
 "Org-mode documents can be exported into a variety of other formats: ASCII "
 "export for inclusion into emails, HTML to publish on the web, @LaTeX{}/PDF "
@@ -6104,7 +6058,7 @@ msgstr ""
 "de escritorio."
 
 #. type: Plain text
-#: orgguide.texi:2340
+#: orgguide.texi:2322
 msgid ""
 "The exporter recognizes special lines in the buffer which provide additional "
 "information.  These lines may be put anywhere in the file.  The whole set of "
@@ -6117,27 +6071,25 @@ msgstr ""
 "b@'uffer con @kbd{C-c C-e #}."
 
 #. type: item
-#: orgguide.texi:2342
+#: orgguide.texi:2324
 #, no-wrap
 msgid "C-c C-e #"
 msgstr "C-c C-e #"
 
 #. type: table
-#: orgguide.texi:2344
+#: orgguide.texi:2326
 msgid "Insert template with export options, see example below."
 msgstr ""
 "Inserta plantilla con opciones de exportaciones, ver ejemplo de debajo."
 
 #. type: smallexample
-#: orgguide.texi:2355
+#: orgguide.texi:2335
 #, no-wrap
 msgid ""
 "#+TITLE:       the title to be shown\n"
 "#+AUTHOR:      the author (default taken from @code{user-full-name})\n"
 "#+DATE:        a date, fixed, or an Org timestamp\n"
 "#+EMAIL:       his/her email address (default from @code{user-mail-address})\n"
-"#+DESCRIPTION: the page description, e.g.@: for the XHTML meta tag\n"
-"#+KEYWORDS:    the page keywords, e.g.@: for the XHTML meta tag\n"
 "#+LANGUAGE:    language, e.g.@: @samp{en} (@code{org-export-default-language})\n"
 "#+OPTIONS:     H:2 num:t toc:t \\n:nil ::t |:t ^:t f:t tex:t ...\n"
 msgstr ""
@@ -6145,13 +6097,11 @@ msgstr ""
 "#+AUTHOR:      el autor (por defecto tomado desde @code{user-full-name})\n"
 "#+DATE:        una fecha, fija, o una marca de tiempo Org\n"
 "#+EMAIL:       su direcci@'on de correo (por defecto desde @code{user-mail-address})\n"
-"#+DESCRIPTION: la descripci@'on de la p@'agina e.g.@: para la meta etiqueta XHTML\n"
-"#+KEYWORDS:    la p@'agina de palabras clave (@samp{keywords}), e.g.@: para la meta etiqueta XHTML\n"
 "#+LANGUAGE:    lenguaje, por ej.@: @samp{en} (@code{org-export-default-language})\n"
 "#+OPTIONS:     H:2 num:t toc:t \\n:nil @@:t ::t |:t ^:t f:t teX:t ...\n"
 
 #. type: Plain text
-#: orgguide.texi:2364
+#: orgguide.texi:2344
 msgid ""
 "All export commands can be reached using the export dispatcher, which is a "
 "prefix key that prompts for an additional key specifying the command.  "
@@ -6165,18 +6115,18 @@ msgstr ""
 "tambi@'en se exportar@'a."
 
 #. type: item
-#: orgguide.texi:2366
+#: orgguide.texi:2346
 #, no-wrap
 msgid "C-c C-e"
 msgstr "C-c C-e"
 
 #. type: table
-#: orgguide.texi:2368
+#: orgguide.texi:2348
 msgid "Dispatcher for export and publishing commands."
 msgstr "Disparador para exportar y publicar comandos."
 
 #. type: Plain text
-#: orgguide.texi:2376
+#: orgguide.texi:2356
 msgid ""
 "ASCII export produces a simple and very readable version of an Org-mode "
 "file, containing only plain ASCII.  Latin-1 and UTF-8 export augment the "
@@ -6188,62 +6138,62 @@ msgstr ""
 "s@'{@dotless{i}}mbolos disponibles en estas codificaciones."
 
 #. type: item
-#: orgguide.texi:2378
+#: orgguide.texi:2358
 #, no-wrap
 msgid "C-c C-e t a @ @ @r{and} @ @ C-c C-e t A"
 msgstr "C-c C-e t a @ @ @r{y} @ @ C-c C-e t A"
 
 #. type: table
-#: orgguide.texi:2380
+#: orgguide.texi:2360
 msgid "Export as ASCII file or temporary buffer."
 msgstr "Exportar como un fichero ASCII o b@'uffer temporal."
 
 #. type: item
-#: orgguide.texi:2380
+#: orgguide.texi:2360
 #, no-wrap
 msgid "C-c C-e t n @ @ @r{and} @ @ C-c C-e t N"
 msgstr "C-c C-e t n @ @ @r{y} @ @ C-c C-e t N"
 
 #. type: table
-#: orgguide.texi:2382
+#: orgguide.texi:2362
 msgid "Like the above commands, but use Latin-1 encoding."
 msgstr "Como los comandos de arriba, pero usa codificaci@'on Latin-1."
 
 #. type: item
-#: orgguide.texi:2382
+#: orgguide.texi:2362
 #, no-wrap
 msgid "C-c C-e t u @ @ @r{and} @ @ C-c C-e t U"
 msgstr "C-c C-e t u @ @ @r{y} @ @ C-c C-e t U"
 
 #. type: table
-#: orgguide.texi:2384
+#: orgguide.texi:2364
 msgid "Like the above commands, but use UTF-8 encoding."
 msgstr "Como los comandos de arriba, pero usa codificaci@'on UTF-8."
 
 #. type: item
-#: orgguide.texi:2390
+#: orgguide.texi:2370
 #, no-wrap
 msgid "C-c C-e h h"
 msgstr "C-c C-e h h"
 
 #. type: table
-#: orgguide.texi:2392
+#: orgguide.texi:2372
 msgid "Export as HTML file @file{myfile.html}."
 msgstr "Exportar como un fichero HTML @file{myfile.html}."
 
 #. type: item
-#: orgguide.texi:2392
+#: orgguide.texi:2372
 #, no-wrap
 msgid "C-c C-e h o"
 msgstr "C-c C-e h o"
 
 #. type: table
-#: orgguide.texi:2394
+#: orgguide.texi:2374
 msgid "Export as HTML file and immediately open it with a browser."
 msgstr "Exportar como fichero HTML e inmediatamente lo abre con un navegador."
 
 #. type: Plain text
-#: orgguide.texi:2398
+#: orgguide.texi:2378
 msgid ""
 "To insert HTML that should be copied verbatim to the exported file use either"
 msgstr ""
@@ -6251,59 +6201,59 @@ msgstr ""
 "fichero exportado que usa otro"
 
 #. type: smallexample
-#: orgguide.texi:2401
+#: orgguide.texi:2381
 #, no-wrap
 msgid "#+HTML: Literal HTML code for export\n"
 msgstr "#+HTML: C@'odigo Literal HTML para exportar\n"
 
 #. type: Plain text
-#: orgguide.texi:2404
+#: orgguide.texi:2384
 msgid "or"
 msgstr "o"
 
 #. type: smallexample
-#: orgguide.texi:2408
+#: orgguide.texi:2388
 #, no-wrap
 msgid ""
-"#+BEGIN_HTML\n"
+"#+BEGIN_EXPORT html\n"
 "All lines between these markers are exported literally\n"
 "#+END_HTML\n"
 msgstr ""
-"#+BEGIN_HTML\n"
+"#+BEGIN_EXPORT html\n"
 "Todas las l@'{@dotless{i}}neas entre estos marcadores son exportados\n"
 "literalmente\n"
 "#+END_HTML\n"
 
 #. type: item
-#: orgguide.texi:2414
+#: orgguide.texi:2394
 #, no-wrap
 msgid "C-c C-e l l"
 msgstr "C-c C-e l l"
 
 #. type: table
-#: orgguide.texi:2416
+#: orgguide.texi:2396
 msgid "Export as @LaTeX{} file @file{myfile.tex}."
 msgstr "Exporta como fichero @LaTeX{} @file{myfile.tex}."
 
 #. type: item
-#: orgguide.texi:2416
+#: orgguide.texi:2396
 #, no-wrap
 msgid "C-c C-e l p"
 msgstr "C-c C-e l p"
 
 #. type: table
-#: orgguide.texi:2418
+#: orgguide.texi:2398
 msgid "Export as @LaTeX{} and then process to PDF."
 msgstr "Exportando a @LaTeX{} y procesando a PDF"
 
 #. type: item
-#: orgguide.texi:2418
+#: orgguide.texi:2398
 #, no-wrap
 msgid "C-c C-e l o"
 msgstr "C-c C-e l o"
 
 #. type: table
-#: orgguide.texi:2420
+#: orgguide.texi:2400
 msgid ""
 "Export as @LaTeX{} and then process to PDF, then open the resulting PDF file."
 msgstr ""
@@ -6311,7 +6261,7 @@ msgstr ""
 "resultante."
 
 #. type: Plain text
-#: orgguide.texi:2425
+#: orgguide.texi:2405
 msgid ""
 "By default, the @LaTeX{} output uses the class @code{article}.  You can "
 "change this by adding an option like @code{#+LATEX_CLASS: myclass} in your "
@@ -6323,39 +6273,39 @@ msgstr ""
 "@code{org-export-latex-classes}."
 
 #. type: Plain text
-#: orgguide.texi:2430
+#: orgguide.texi:2410
 msgid ""
 "Embedded @LaTeX{} as described in @ref{Embedded @LaTeX{}}, will be correctly "
 "inserted into the @LaTeX{} file.  Similarly to the HTML exporter, you can "
-"use @code{#+LATEX:} and @code{#+BEGIN_LATEX ... #+END_LATEX} construct to "
-"add verbatim @LaTeX{} code."
+"use @code{#+LATEX:} and @code{#+BEGIN_EXPORT latex ... #+END_EXPORT} "
+"construct to add verbatim @LaTeX{} code."
 msgstr ""
 "El @LaTeX{} embebido como se describe en @ref{@LaTeX{} embebido},\n"
 "ser@'a correctamente insertado dentro del fichero @LaTeX{}. De manera\n"
 "similar, al exportador HTML, se puede usar @code{#+LaTeX:} y la\n"
-"construcci@'on @code{#+BEGIN_LaTeX ... #+END_LaTeX} para a@~nadir\n"
+"construcci@'on @code{#+BEGIN_EXPORT ... #+END_EXPORT} para a@~nadir\n"
 "c@'odigo @LaTeX{} literal."
 
 #. type: item
-#: orgguide.texi:2435
+#: orgguide.texi:2415
 #, no-wrap
 msgid "C-c C-e c f"
 msgstr "C-c C-e c f"
 
 #. type: table
-#: orgguide.texi:2437
+#: orgguide.texi:2417
 msgid "Create iCalendar entries for the current file in a @file{.ics} file."
 msgstr ""
 "Crea entradas iCalendar para el fichero actual en un fichero @file{.ics}."
 
 #. type: item
-#: orgguide.texi:2437
+#: orgguide.texi:2417
 #, no-wrap
 msgid "C-c C-e c c"
 msgstr "C-c C-e c c"
 
 #. type: table
-#: orgguide.texi:2441
+#: orgguide.texi:2421
 msgid ""
 "Create a single large iCalendar file from all files in @code{org-agenda-"
 "files} and write it to the file given by @code{org-icalendar-combined-agenda-"
@@ -6366,11 +6316,11 @@ msgstr ""
 "@code{org-icalendar-combined-agenda-file}."
 
 #. type: Plain text
-#: orgguide.texi:2451
+#: orgguide.texi:2431
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Exporting.html#Exporting, Chapter "
 "12 of the manual}@* @uref{https://orgmode.org/worg/org-tutorials/images-and-"
-"xhtml-export.php, Sebastian Rose's image handling tutorial}@* @uref{http://"
+"xhtml-export.php, Sebastian Rose's image handling tutorial}@* @uref{https://"
 "orgmode.org/worg/org-tutorials/org-latex-export.php, Thomas Dye's LaTeX "
 "export tutorial} @uref{https://orgmode.org/worg/org-tutorials/org-beamer/"
 "tutorial.php, Eric Fraga's BEAMER presentation tutorial}}"
@@ -6385,7 +6335,7 @@ msgstr ""
 "Tutorial de presentaciones de BEAMER de Eric Fraga}}"
 
 #. type: Plain text
-#: orgguide.texi:2460
+#: orgguide.texi:2440
 msgid ""
 "Org includes a publishing management system that allows you to configure "
 "automatic HTML conversion of @emph{projects} composed of interlinked org "
@@ -6402,12 +6352,12 @@ msgstr ""
 "el manual."
 
 #. type: Plain text
-#: orgguide.texi:2462
+#: orgguide.texi:2442
 msgid "Here is an example:"
 msgstr "Aqu@'{@dotless{i}} hay un ejemplo:"
 
 #. type: smalllisp
-#: orgguide.texi:2473
+#: orgguide.texi:2453
 #, no-wrap
 msgid ""
 "(setq org-publish-project-alist\n"
@@ -6431,53 +6381,53 @@ msgstr ""
 "                type=\\\"text/css\\\"/>\")))\n"
 
 #. type: item
-#: orgguide.texi:2476
+#: orgguide.texi:2456
 #, no-wrap
 msgid "C-c C-e P x"
 msgstr "C-c C-e P x"
 
 #. type: table
-#: orgguide.texi:2478
+#: orgguide.texi:2458
 msgid "Prompt for a specific project and publish all files that belong to it."
 msgstr ""
 "Pregunta por un proyecto espec@'{@dotless{i}}fico y publica todos los\n"
 "ficheros que pertenecen a él."
 
 #. type: item
-#: orgguide.texi:2478
+#: orgguide.texi:2458
 #, no-wrap
 msgid "C-c C-e P p"
 msgstr "C-c C-e P p"
 
 #. type: table
-#: orgguide.texi:2480
+#: orgguide.texi:2460
 msgid "Publish the project containing the current file."
 msgstr "Publica el proyecto que contiene el fichero actual."
 
 #. type: item
-#: orgguide.texi:2480
+#: orgguide.texi:2460
 #, no-wrap
 msgid "C-c C-e P f"
 msgstr "C-c C-e P f"
 
 #. type: table
-#: orgguide.texi:2482
+#: orgguide.texi:2462
 msgid "Publish only the current file."
 msgstr "Elimina la columna actual."
 
 #. type: item
-#: orgguide.texi:2482
+#: orgguide.texi:2462
 #, no-wrap
 msgid "C-c C-e P a"
 msgstr "C-c C-e P a"
 
 #. type: table
-#: orgguide.texi:2484
+#: orgguide.texi:2464
 msgid "Publish every project."
 msgstr "Publica cada proyecto"
 
 #. type: Plain text
-#: orgguide.texi:2490
+#: orgguide.texi:2470
 msgid ""
 "Org uses timestamps to track when a file has changed.  The above functions "
 "normally only publish changed files.  You can override this and force "
@@ -6491,7 +6441,7 @@ msgstr ""
 "comandos de debajo."
 
 #. type: Plain text
-#: orgguide.texi:2498
+#: orgguide.texi:2478
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Publishing.html#Publishing, "
 "Chapter 13 of the manual}@* @uref{https://orgmode.org/worg/org-tutorials/org-"
@@ -6507,13 +6457,13 @@ msgstr ""
 "Configuraci@'on de Jekyll de Ian Barton}}"
 
 #. type: chapter
-#: orgguide.texi:2500
+#: orgguide.texi:2480
 #, no-wrap
 msgid "Working with source code"
 msgstr "Trabajando con c@'odigo fuente"
 
 #. type: Plain text
-#: orgguide.texi:2505
+#: orgguide.texi:2485
 msgid ""
 "Org-mode provides a number of features for working with source code, "
 "including editing of code blocks in their native major-mode, evaluation of "
@@ -6527,18 +6477,18 @@ msgstr ""
 "en varios formatos."
 
 #. type: subheading
-#: orgguide.texi:2506
+#: orgguide.texi:2486
 #, no-wrap
 msgid "Structure of Code Blocks"
 msgstr "Estructura de bloques de c@'odigo "
 
 #. type: Plain text
-#: orgguide.texi:2508
+#: orgguide.texi:2488
 msgid "The structure of code blocks is as follows:"
 msgstr "La estructura de bloques de c@'odigo es como sigue:"
 
 #. type: example
-#: orgguide.texi:2514
+#: orgguide.texi:2494
 #, no-wrap
 msgid ""
 "#+NAME: <name>\n"
@@ -6552,7 +6502,7 @@ msgstr ""
 "#+END_SRC\n"
 
 #. type: Plain text
-#: orgguide.texi:2523
+#: orgguide.texi:2503
 msgid ""
 "Where @code{<name>} is a string used to name the code block, "
 "@code{<language>} specifies the language of the code block (e.g.@: "
@@ -6572,13 +6522,13 @@ msgstr ""
 "@code{<body>} contiene el c@'odigo fuente actual."
 
 #. type: subheading
-#: orgguide.texi:2524
+#: orgguide.texi:2504
 #, no-wrap
 msgid "Editing source code"
 msgstr "Editando c@'odigo fuente"
 
 #. type: Plain text
-#: orgguide.texi:2529
+#: orgguide.texi:2509
 msgid ""
 "Use @kbd{C-c '} to edit the current code block.  This brings up a language "
 "major-mode edit buffer containing the body of the code block.  Saving this "
@@ -6592,13 +6542,13 @@ msgstr ""
 "salir del b@'uffer de edici@'on."
 
 #. type: subheading
-#: orgguide.texi:2530
+#: orgguide.texi:2510
 #, no-wrap
 msgid "Evaluating code blocks"
 msgstr "Evaluando c@'odigos de bloques"
 
 #. type: Plain text
-#: orgguide.texi:2536
+#: orgguide.texi:2516
 msgid ""
 "Use @kbd{C-c C-c} to evaluate the current code block and insert its results "
 "in the Org-mode buffer.  By default, evaluation is only turned on for "
@@ -6614,7 +6564,7 @@ msgstr ""
 "bloque de c@'odigo y sus resultados."
 
 #. type: example
-#: orgguide.texi:2541
+#: orgguide.texi:2521
 #, no-wrap
 msgid ""
 "#+BEGIN_SRC emacs-lisp\n"
@@ -6628,7 +6578,7 @@ msgstr ""
 "\n"
 
 #. type: example
-#: orgguide.texi:2544
+#: orgguide.texi:2524
 #, no-wrap
 msgid ""
 "#+RESULTS:\n"
@@ -6638,13 +6588,13 @@ msgstr ""
 ": 10\n"
 
 #. type: subheading
-#: orgguide.texi:2546
+#: orgguide.texi:2526
 #, no-wrap
 msgid "Extracting source code"
 msgstr "Extrayendo c@'odigo fuente"
 
 #. type: Plain text
-#: orgguide.texi:2554
+#: orgguide.texi:2534
 msgid ""
 "Use @kbd{C-c C-v t} to create pure source code files by extracting code from "
 "source blocks in the current buffer.  This is referred to as ``tangling''---"
@@ -6665,33 +6615,35 @@ msgstr ""
 "ver el manual para detalles."
 
 #. type: subheading
-#: orgguide.texi:2555
+#: orgguide.texi:2535
 #, no-wrap
 msgid "Library of Babel"
 msgstr "Librer@'{@dotless{i}}a de Babel"
 
 #. type: Plain text
-#: orgguide.texi:2560
+#: orgguide.texi:2541
 msgid ""
 "Use @kbd{C-c C-v l} to load the code blocks from an Org-mode files into the "
 "``Library of Babel'', these blocks can then be evaluated from any Org-mode "
-"buffer.  A collection of generally useful code blocks is distributed with "
-"Org-mode in @code{contrib/library-of-babel.org}."
+"buffer.  A collection of generally useful code blocks is accessible through "
+"Org-mode's community-driven documentation on @uref{https://orgmode.org/worg/"
+"library-of-babel.html,Worg}."
 msgstr ""
 "Usa @kbd{C-c C-v l} para cargar los bloques de c@'odigo desde ficheros\n"
 "Org-mode dentro de la ``Librer@'{@dotless{i}}a de Babel'', estos\n"
 "bloques pueden ser evaluados desde cualquier b@'uffer Org-mode. Una\n"
 "colecci@'on de generalmente bloques de c@'odigo @'utiles est@'an\n"
-"distribuidos con Org-mode en @code{contrib/library-of-babel.org}."
+"distribuidos con Org-mode en\n"
+"@uref{https://orgmode.org/worg/library-of-babel.html,Worg}."
 
 #. type: subheading
-#: orgguide.texi:2561
+#: orgguide.texi:2542
 #, no-wrap
 msgid "Header Arguments"
 msgstr "Argumentos de cabecera"
 
 #. type: Plain text
-#: orgguide.texi:2566
+#: orgguide.texi:2547
 msgid ""
 "Many aspects of the evaluation and export of code blocks are controlled "
 "through header arguments.  These can be specified globally, at the file "
@@ -6706,13 +6658,13 @@ msgstr ""
 "cabecera."
 
 #. type: item
-#: orgguide.texi:2567
+#: orgguide.texi:2548
 #, no-wrap
 msgid ":var"
 msgstr ":var"
 
 #. type: table
-#: orgguide.texi:2571
+#: orgguide.texi:2552
 msgid ""
 "The @code{:var} header argument is used to pass arguments to code blocks.  "
 "The values passed to arguments can be literal values, values from org-mode "
@@ -6724,13 +6676,13 @@ msgstr ""
 "literales, o los resultados de otros bloques de c@'odigo nombrados."
 
 #. type: item
-#: orgguide.texi:2571
+#: orgguide.texi:2552
 #, no-wrap
 msgid ":results"
 msgstr ":results"
 
 #. type: table
-#: orgguide.texi:2582
+#: orgguide.texi:2563
 msgid ""
 "The @code{:results} header argument controls the @emph{collection}, "
 "@emph{type}, and @emph{handling} of code block results.  Values of "
@@ -6757,13 +6709,13 @@ msgstr ""
 "deber@'{@dotless{i}}an ser insertados dentro del b@'uffer Org-mode."
 
 #. type: item
-#: orgguide.texi:2582
+#: orgguide.texi:2563
 #, no-wrap
 msgid ":session"
 msgstr ":session"
 
 #. type: table
-#: orgguide.texi:2587
+#: orgguide.texi:2568
 msgid ""
 "A header argument of @code{:session} will cause the code block to be "
 "evaluated in a persistent interactive inferior process in Emacs.  This "
@@ -6776,13 +6728,13 @@ msgstr ""
 "de c@'odigo, y para inspecci@'on de manual de los resultados de evaluaci@'on."
 
 #. type: item
-#: orgguide.texi:2587
+#: orgguide.texi:2568
 #, no-wrap
 msgid ":exports"
 msgstr ":exporta"
 
 #. type: table
-#: orgguide.texi:2591
+#: orgguide.texi:2572
 msgid ""
 "Any combination of the @emph{code} or the @emph{results} of a block can be "
 "retained on export, this is specified by setting the @code{:results} header "
@@ -6795,13 +6747,13 @@ msgstr ""
 "@code{resultados} @code{ninguno} @'o @code{ambos}."
 
 #. type: item
-#: orgguide.texi:2591
+#: orgguide.texi:2572
 #, no-wrap
 msgid ":tangle"
 msgstr ":tangle"
 
 #. type: table
-#: orgguide.texi:2595
+#: orgguide.texi:2576
 msgid ""
 "A header argument of @code{:tangle yes} will cause a code block's contents "
 "to be tangled to a file named after the filename of the Org-mode buffer.  An "
@@ -6813,13 +6765,13 @@ msgstr ""
 "ser especificado con @code{:tangle filename}."
 
 #. type: item
-#: orgguide.texi:2595
+#: orgguide.texi:2576
 #, no-wrap
 msgid ":cache"
 msgstr ":cache"
 
 #. type: table
-#: orgguide.texi:2599
+#: orgguide.texi:2580
 msgid ""
 "A header argument of @code{:cache yes} will cause associate a hash of the "
 "expanded code block with the results, ensuring that code blocks are only re-"
@@ -6831,13 +6783,13 @@ msgstr ""
 "cambiado."
 
 #. type: item
-#: orgguide.texi:2599
+#: orgguide.texi:2580
 #, no-wrap
 msgid ":noweb"
 msgstr ":noweb"
 
 #. type: table
-#: orgguide.texi:2602
+#: orgguide.texi:2583
 msgid ""
 "A header argument of @code{:noweb yes} will expand ``noweb'' style "
 "references on evaluation and tangling."
@@ -6846,13 +6798,13 @@ msgstr ""
 "referencias de estilo en evaluaci@'on y enredo."
 
 #. type: item
-#: orgguide.texi:2602
+#: orgguide.texi:2583
 #, no-wrap
 msgid ":file"
 msgstr ":file"
 
 #. type: table
-#: orgguide.texi:2607
+#: orgguide.texi:2588
 msgid ""
 "Code blocks which output results to files (e.g.@: graphs, diagrams and "
 "figures)  can accept a @code{:file filename} header argument in which case "
@@ -6866,7 +6818,7 @@ msgstr ""
 "dentro del b@'uffer Org-mode."
 
 #. type: Plain text
-#: orgguide.texi:2614
+#: orgguide.texi:2595
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Literal-examples.html#Literal-"
 "examples, Chapter 11.3 of the manual}@* @uref{https://orgmode.org/worg/org-"
@@ -6879,7 +6831,7 @@ msgstr ""
 "Babel en Worg}}"
 
 #. type: Plain text
-#: orgguide.texi:2633
+#: orgguide.texi:2614
 msgid ""
 "Org supports in-buffer completion with @kbd{M-@key{TAB}}.  This type of "
 "completion does not make use of the minibuffer.  You simply type a few "
@@ -6897,13 +6849,13 @@ msgstr ""
 "despu@'es de @samp{:} en una l@'{@dotless{i}}nea de cabeza."
 
 #. type: section
-#: orgguide.texi:2635
+#: orgguide.texi:2616
 #, no-wrap
 msgid "A cleaner outline view"
 msgstr "Una vista del contorno de limpieza"
 
 #. type: Plain text
-#: orgguide.texi:2642
+#: orgguide.texi:2623
 msgid ""
 "Some people find it noisy and distracting that the Org headlines start with "
 "a potentially large number of stars, and that text below the headlines is "
@@ -6920,7 +6872,7 @@ msgstr ""
 "a listas}, la estructura indentada es muy limpia:"
 
 #. type: group
-#: orgguide.texi:2652
+#: orgguide.texi:2633
 #, no-wrap
 msgid ""
 "* Top level headline             |    * Top level headline\n"
@@ -6940,25 +6892,28 @@ msgstr ""
 "* Otra cabecera de alto nivel    |    * Otra cabecera de alto nivel\n"
 
 #. type: Plain text
-#: orgguide.texi:2662
+#: orgguide.texi:2642
 msgid ""
-"If you are using at least Emacs 23.1.50.3 and version 6.29 of Org, this kind "
-"of view can be achieved dynamically at display time using @code{org-indent-"
-"mode}, which will prepend intangible space to each line.  You can turn on "
-"@code{org-indent-mode} for all files by customizing the variable @code{org-"
-"startup-indented}, or you can turn it on for individual files using"
+"This kind of view can be achieved dynamically at display time using "
+"@code{org-indent-mode}, which will prepend intangible space to each line.  "
+"You can turn on @code{org-indent-mode} for all files by customizing the "
+"variable @code{org-startup-indented}, or you can turn it on for individual "
+"files using"
 msgstr ""
-"Si se est@'a usando al menos Emacs 23.1.50.3 y la versi@'on 6.29 de Org,\n"
-"este tipo de vista puede ser lograda din@'amicamente "
+"Este tipo de vista se puede lograr din@'amicamente en el tiempo de visualizaci@'on usando\n"
+"@code {org-indent-mode}, que antepondr@'a el espacio intangible a cada l@'{@dotless{i}}nea.\n"
+"Puede activar @code {org-indent-mode} para todos los archivos personalizando el\n"
+"variable @code {org-startup-indented}, o puede activarla para cada\n"
+"archivos usando"
 
 #. type: smallexample
-#: orgguide.texi:2665
+#: orgguide.texi:2645
 #, no-wrap
 msgid "#+STARTUP: indent\n"
 msgstr "#+STARTUP: indentar\n"
 
 #. type: Plain text
-#: orgguide.texi:2673
+#: orgguide.texi:2653
 msgid ""
 "If you want a similar effect in earlier version of Emacs and/or Org, or if "
 "you want the indentation to be hard space characters so that the plain text "
@@ -6977,13 +6932,13 @@ msgstr ""
 "este soporte en un fichero, use:"
 
 #. type: smallexample
-#: orgguide.texi:2676
+#: orgguide.texi:2656
 #, no-wrap
 msgid "#+STARTUP: hidestars odd\n"
 msgstr "#+STARTUP: oculta estrellas impares\n"
 
 #. type: Plain text
-#: orgguide.texi:2685
+#: orgguide.texi:2665
 msgid ""
 "@i{MobileOrg} is the name of the mobile companion app for Org mode, "
 "currently available for iOS and for Android.  @i{MobileOrg} offers offline "
@@ -6997,7 +6952,7 @@ msgstr ""
 "grabar cambios a entradas existentes."
 
 #. type: Plain text
-#: orgguide.texi:2692
+#: orgguide.texi:2672
 msgid ""
 "The @uref{http://mobileorg.ncogni.to/, iOS implementation} for the @i{iPhone/"
 "iPod Touch/iPad} series of devices, was developed by Richard Moreland. "
@@ -7015,12 +6970,12 @@ msgstr ""
 # orgguide.es.po: reviewing the chapter 12 and 13 from model. Finished
 # the revision from model.
 #. type: Plain text
-#: orgguide.texi:2699
+#: orgguide.texi:2679
 msgid ""
 "@seealso{ @uref{https://orgmode.org/manual/Miscellaneous.html#Miscellaneous, "
 "Chapter 15 of the manual}@* @uref{https://orgmode.org/manual/MobileOrg."
-"html#MobileOrg, Appendix B of the manual}@* @uref{https://orgmode.org/orgcard."
-"pdf,Key reference card}}"
+"html#MobileOrg, Appendix B of the manual}@* @uref{https://orgmode.org/"
+"orgcard.pdf,Key reference card}}"
 msgstr ""
 "@seealso{\n"
 "@uref{https://orgmode.org/manual/Miscellaneous.html#Miscellaneous,\n"
@@ -7029,10 +6984,46 @@ msgstr ""
 "del manual}@* @uref{https://orgmode.org/orgcard.pdf,tarjeta de referencia}}"
 
 #. type: include
-#: orgguide.texi:2703
+#: orgguide.texi:2683
 #, no-wrap
 msgid "doclicense.texi"
 msgstr "doclicense.texi"
+
+#~ msgid "Timeline"
+#~ msgstr "L@'{@dotless{i}}nea de tiempo"
+
+#~ msgid "Time-sorted view for single file"
+#~ msgstr "Vista ordenada en el tiempo de un archivo"
+
+#~ msgid "L"
+#~ msgstr "L"
+
+#~ msgid "The timeline view for the current buffer (@pxref{Timeline})."
+#~ msgstr ""
+#~ "La vista de la l@'{@dotless{i}}nea de tiempo para el b@'uffer actual\n"
+#~ "@pxref{L@'{@dotless{i}}nea de tiempo})."
+
+#~ msgid "Timeline for a single file"
+#~ msgstr "L@'{@dotless{i}}nea de tiempo para un simple archivo"
+
+#~ msgid ""
+#~ "The timeline summarizes all time-stamped items from a single Org mode "
+#~ "file in a @emph{time-sorted view}.  The main purpose of this command is "
+#~ "to give an overview over events in a project."
+#~ msgstr ""
+#~ "La l@'{@dotless{i}}nea de tiempo resume todos los @'{@dotless{i}}tems\n"
+#~ "de marca de tiempo desde un simple fichero Org mode en una @emph{vista\n"
+#~ "de tiempo ordenada}. El prop@'osito principal de este comando es dar\n"
+#~ "una vista general a trav@'es de eventos en un proyecto."
+
+#~ msgid "C-c a L"
+#~ msgstr "C-c a L"
+
+#~ msgid ""
+#~ "Show a time-sorted view of the Org file, with all time-stamped items.  "
+#~ "When called with a @kbd{C-u} prefix, all unfinished TODO entries "
+#~ "(scheduled or not) are also listed under the current date."
+#~ msgstr "emparejando"
 
 #~ msgid "can instead set the TAGS option line as:"
 #~ msgstr "o bien establecer en la l@'{@dotless{i}}nea TAGS una opci@'on como:"
