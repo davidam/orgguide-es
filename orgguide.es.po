@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "POT-Creation-Date: 2018-06-05 19:30+0200\n"
-"PO-Revision-Date: 2018-06-05 19:43+0200\n"
+"PO-Revision-Date: 2018-06-05 19:48+0200\n"
 "Last-Translator: David Arroyo Menendez <davidam@es.gnu.org>\n"
 "Language-Team: Spanish\n"
 "Language: Spanish\n"
@@ -1376,7 +1376,7 @@ msgid ""
 "will be silently ignored by exporting functions."
 msgstr ""
 "Note que la cabecera nombrada despu@'es de\n"
-"@code{org-footnote-section}, que por defecto es @samp{Notas al pi@'e},\n"
+"@code{org-footnote-section}, que por defecto es @samp{Notas al pie},\n"
 "se considera especial. Un sub@'arbol con esta cabecera se ignora por\n"
 "las funciones de exportaci@'on."
 
@@ -1956,7 +1956,7 @@ msgstr ""
 #. type: Plain text
 #: orgguide.texi:552
 msgid "The following commands handle footnotes:"
-msgstr "El siguiente comando maneja notas al pi@'e:"
+msgstr "El siguiente comando maneja notas al pie:"
 
 #. type: item
 #: orgguide.texi:554
